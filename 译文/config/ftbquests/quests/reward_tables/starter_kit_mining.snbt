@@ -1,0 +1,27 @@
+{
+	id: "00F566263E9C393C"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:iron_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 0.0f
+		}
+		{
+			count: 64
+			item: "minecraft:torch"
+			weight: 0.0f
+		}
+		{
+			count: 16
+			item: "minecraft:coal"
+		}
+	]
+	title: "{ftbquests.reward_tables.starter_kit_mining.title}"
+}
