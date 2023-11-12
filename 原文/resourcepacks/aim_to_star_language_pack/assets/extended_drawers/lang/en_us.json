@@ -48,9 +48,7 @@
   "config.extended_drawers.storage.compactingCapacity": "Compacting drawer capacity",
   "config.extended_drawers.storage.compactingCapacity.description": "The base capacity of compacting drawers, measured in the most compressed version. Upgrades and other options modify this.",
   "config.extended_drawers.storage.stackSizeAffectsCapacity": "Stack size affects capacity",
-  "config.extended_drawers.storage.stackSizeAffectsCapacity.description": "If enabled, the capacity of drawers will decrease based on the stack size of the contained items to always accept the same amount of stacks.
-
-Compacting drawers check this on the smallest item.",
+  "config.extended_drawers.storage.stackSizeAffectsCapacity.description": "If enabled, the capacity of drawers will decrease based on the stack size of the contained items to always accept the same amount of stacks.Compacting drawers check this on the smallest item.",
   "config.extended_drawers.storage.slotCountAffectsCapacity": "Slot count affects capacity",
   "config.extended_drawers.storage.slotCountAffectsCapacity.description": "If enabled, the capacity of each slot in a normal drawer is divided by the amount of slots. When enabled all normal drawers store the same amount of items.",
   "config.extended_drawers.storage.upgradeMultipliers": "Upgrade multipliers",
@@ -64,22 +62,16 @@ Compacting drawers check this on the smallest item.",
   "config.extended_drawers.misc.insertAllTime": "Insert all window",
   "config.extended_drawers.misc.insertAllTime.description": "The max time between the clicks of a double click for inserting all items. Measured in ticks.",
   "config.extended_drawers.misc.frontBreakingBehaviour": "Front breaking behavior",
-  "config.extended_drawers.misc.frontBreakingBehaviour.description": "This option controls how breaking drawer blocks works on the front face in creative mode.
-",
+  "config.extended_drawers.misc.frontBreakingBehaviour.description": "This option controls how breaking drawer blocks works on the front face in creative mode.",
   "config.extended_drawers.misc.sideBreakingBehaviour": "Side breaking behavior",
-  "config.extended_drawers.misc.sideBreakingBehaviour.description": "This option controls how breaking drawer blocks works on the side, back, bottom and top faces in creative mode.
-",
+  "config.extended_drawers.misc.sideBreakingBehaviour.description": "This option controls how breaking drawer blocks works on the side, back, bottom and top faces in creative mode.",
   "config.extended_drawers.misc.blockUpgradeRemovalsWithOverflow": "Prevent overflow",
   "config.extended_drawers.misc.blockUpgradeRemovalsWithOverflow.description": "If enabled, you can't remove upgrades if the slot would overflow after removal. If disabled, the drawer will drop the overflowing items on the ground.",
   "config.extended_drawers.misc.allowRecursion": "Allow recursion",
-  "config.extended_drawers.misc.allowRecursion.description": "Allows you to place drawers insider shulker boxes and other drawers.
-
-",
+  "config.extended_drawers.misc.allowRecursion.description": "Allows you to place drawers insider shulker boxes and other drawers.",
   "config.extended_drawers.misc.allowRecursion.warning": "Warning: Deeply nested storage can lead to chunk and player data corruption.",
   "config.extended_drawers.misc.drawersDropContentsOnBreak": "Drop drawer contents",
-  "config.extended_drawers.misc.drawersDropContentsOnBreak.description": "If enabled, drawers will drop their contents instead of retaining them when broken.
-
-",
+  "config.extended_drawers.misc.drawersDropContentsOnBreak.description": "If enabled, drawers will drop their contents instead of retaining them when broken.",
   "config.extended_drawers.misc.drawersDropContentsOnBreak.warning": "Warning: This can lead to large amounts of dropped items, causing significant lag.",
   "config.extended_drawers.client": "Client",
   "config.extended_drawers.client.itemRenderDistance": "Item render distance",
@@ -103,22 +95,13 @@ Compacting drawers check this on the smallest item.",
   "config.extended_drawers.client.textOffset.description": "Offset from the bottom of the slot to move the text by on drawers",
   "config.extended_drawers.client.icons": "Icons",
   "config.extended_drawers.client.lockedIcon": "Locked mode icon",
-  "config.extended_drawers.client.lockedIcon.description": "The id of icon to be displayed on locked drawers. This texture must be available on the block texture atlas (all block and item textures reside there) to work properly.
-
-The actual behaviour is controlled by the 'extended_drawers:toggle/lock' tag.",
+  "config.extended_drawers.client.lockedIcon.description": "The id of icon to be displayed on locked drawers. This texture must be available on the block texture atlas (all block and item textures reside there) to work properly.The actual behaviour is controlled by the 'extended_drawers:toggle/lock' tag.",
   "config.extended_drawers.client.voidingIcon": "Voiding mode icon",
-  "config.extended_drawers.client.voidingIcon.description": "The id of icon to be displayed on voiding drawers. This texture must be available on the block texture atlas (all block and item textures reside there) to work properly.
-
-The actual behaviour is controlled by the 'extended_drawers:toggle/voiding' tag.",
+  "config.extended_drawers.client.voidingIcon.description": "The id of icon to be displayed on voiding drawers. This texture must be available on the block texture atlas (all block and item textures reside there) to work properly.The actual behaviour is controlled by the 'extended_drawers:toggle/voiding' tag.",
   "config.extended_drawers.client.hiddenIcon": "Hidden mode icon",
-  "config.extended_drawers.client.hiddenIcon.description": "The id of icon to be displayed on hidden drawers. This texture must be available on the block texture atlas (all block and item textures reside there) to work properly.
-
-The actual behaviour is controlled by the 'extended_drawers:toggle/hidden' tag.",
+  "config.extended_drawers.client.hiddenIcon.description": "The id of icon to be displayed on hidden drawers. This texture must be available on the block texture atlas (all block and item textures reside there) to work properly.The actual behaviour is controlled by the 'extended_drawers:toggle/hidden' tag.",
   "config.extended_drawers.client.dupingIcon": "Duping mode icon",
-  "config.extended_drawers.client.dupingIcon.description": "The id of icon to be displayed on duping drawers. This texture must be available on the block texture atlas (all block and item textures reside there) to work properly.
-
-The actual behaviour is controlled by the 'extended_drawers:toggle/duping' tag.",
-
+  "config.extended_drawers.client.dupingIcon.description": "The id of icon to be displayed on duping drawers. This texture must be available on the block texture atlas (all block and item textures reside there) to work properly.The actual behaviour is controlled by the 'extended_drawers:toggle/duping' tag.",
   "config.extended_drawers.creativeBreakingBehaviour.break": "Break",
   "config.extended_drawers.creativeBreakingBehaviour.break.description": "Break: Breaking is instant as normal.",
   "config.extended_drawers.creativeBreakingBehaviour.mine": "Mine",
