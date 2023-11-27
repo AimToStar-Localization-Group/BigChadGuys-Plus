@@ -1,0 +1,6 @@
+{
+    "counter.ko.count": "You've ko'd %d %d",
+    "counter.ko.streak": "You have a ko streak of %d %d",
+    "counter.capture.count": "You've captured %d %d",
+    "counter.capture.streak": "You have a capture streak of %d %d"
+}

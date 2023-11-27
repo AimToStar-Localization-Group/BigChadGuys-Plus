@@ -1,0 +1,6 @@
+{
+  "block.selling-bin.wooden_bin": "Wooden Selling Bin",
+  "block.selling-bin.iron_bin": "Iron Selling Bin",
+  "block.selling-bin.diamond_bin": "Diamond Selling Bin",
+  "selling-bin.tooltip.sell": "Sell §f%sx§r for §f%sx§r §f§l%s"
+}
