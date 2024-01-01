@@ -732,14 +732,17 @@
 					value: 1L
 				}
 				{
-					entity: "endermanoverhaul:ocean_enderman"
-					id: "2779FAFD08C3E177"
+					entity: "endermanoverhaul:savanna_enderman"
+					id: "3118903163E154B2"
 					type: "kill"
 					value: 1L
 				}
 				{
-					entity: "endermanoverhaul:savanna_enderman"
-					id: "3118903163E154B2"
+					entity: "endermanoverhaul:coral_enderman"
+					icon: "endermanoverhaul:coral_enderman_spawn_egg"
+					id: "1ED55A71DB0A04FD"
+					title: "{ftbquests.chapter.questing_v10.quests28.task0.title}"
+
 					type: "kill"
 					value: 1L
 				}
@@ -4912,84 +4915,6 @@
 			]
 			x: 1.5d
 			y: 12.0d
-		}
-		{
-			dependencies: ["3A21978BB3593DC8"]
-			id: "6E3924D4FA3D22AB"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "637767A1C82EC843"
-					table_id: 6879024293389362011L
-					type: "loot"
-				}
-				{
-					id: "08B10D0E5A2747DC"
-					type: "xp"
-					xp: 100
-				}
-			]
-			tasks: [
-				{
-					id: "57424C9D1AA52E15"
-					item: "createoreexcavation:drilling_machine"
-					type: "item"
-				}
-			]
-			x: 12.5d
-			y: 17.5d
-		}
-		{
-			dependencies: ["3A21978BB3593DC8"]
-			id: "4148C80D127C49B4"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "0AA5DD0578889038"
-					table_id: 6879024293389362011L
-					type: "loot"
-				}
-				{
-					id: "6D0D22FF69B9D874"
-					type: "xp"
-					xp: 100
-				}
-			]
-			tasks: [
-				{
-					id: "3F14B2C7BEB78734"
-					item: "createoreexcavation:extractor"
-					type: "item"
-				}
-			]
-			x: 14.5d
-			y: 17.5d
-		}
-		{
-			dependencies: ["3A21978BB3593DC8"]
-			id: "48E335ED5CCE98FF"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "0E08AC20022F721B"
-					table_id: 6879024293389362011L
-					type: "loot"
-				}
-				{
-					id: "4DECF982C0D3A92D"
-					type: "xp"
-					xp: 100
-				}
-			]
-			tasks: [
-				{
-					id: "6ED4DD97DBBC4ECC"
-					item: "createoreexcavation:vein_finder"
-					type: "item"
-				}
-			]
-			x: 13.5d
-			y: 17.5d
 		}
 		{
 			dependencies: ["4252711C962C4AAA"]
@@ -13045,22 +12970,6 @@
 		}
 		{
 			dependencies: ["4BC6BB7475C11ECF"]
-			icon: "simplehats:raincloud"
-			id: "3C7774E6DA1746FB"
-			subtitle: "{ftbquests.chapter.questing_v10.quests572.subtitle}"
-			tasks: [
-				{
-					biome: "terralith:skylands"
-					id: "08F6FBAD4B812D23"
-					type: "biome"
-				}
-			]
-			title: "{ftbquests.chapter.questing_v10.quests572.title}"
-			x: 21.5d
-			y: -11.0d
-		}
-		{
-			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "minecraft:jungle_sapling"
 			id: "18712A682C2D9B10"
 			subtitle: "{ftbquests.chapter.questing_v10.quests573.subtitle}"
@@ -13904,8 +13813,8 @@
 				}
 			]
 			title: "{ftbquests.chapter.questing_v10.quests611.title}"
-			x: 23.5d
-			y: -17.0d
+			x: 21.5d
+			y: -11.0d
 		}
 		{
 			dependencies: ["7394F18A103B9E67"]
@@ -13993,6 +13902,23 @@
 			x: 18.0d
 			y: 8.0d
 		}
+		{
+			dependencies: ["794EA7994A5605F7"]
+			id: "784B98982C5B2FC1"
+			rewards: [{
+				id: "13CF5A15AF6AD200"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "766AABCD143861FE"
+				item: "brewinandchewin:egg_grog"
+				type: "item"
+			}]
+			x: 30.5d
+			y: 10.5d
+		}
+
 	]
 	title: "{ftbquests.chapter.questing_v10.title}"
 }
