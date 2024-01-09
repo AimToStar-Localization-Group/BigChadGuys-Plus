@@ -1,0 +1,15 @@
+{
+    "spawn_notification.notification.biome": " 在%d生物群系里",
+    "spawn_notification.notification.shiny": "闪光%s出现",
+    "spawn_notification.notification.both": "传说中的闪光%d出现",
+    "spawn_notification.notification.fainted": "%d晕倒了",
+    "spawn_notification.notification.despawned": "%s消失了",
+    "spawn_notification.notification.captured": "%d被捕捉了",
+    "dimension.minecraft.the_end": "末地",
+    "dimension.minecraft.the_nether": "下界",
+    "dimension.minecraft.overworld": "主世界",
+    "spawn_notification.notification.coords": " 在（%d，%d，%d）",
+    "spawn_notification.notification.dimension": " 在%d里",
+    "spawn_notification.notification.legendary": "传说中的%d生成",
+    "spawn_notification.shinysoundsubtitle": "闪光宝可梦出现"
+}

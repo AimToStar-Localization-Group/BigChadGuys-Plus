@@ -1,0 +1,6 @@
+{
+    "counter.ko.streak": "你已连续KO%d次%d",
+    "counter.capture.count": "你已捕获%d次%d",
+    "counter.ko.count": "你已KO%d次%d",
+    "counter.capture.streak": "你已连续捕获%d次%d"
+}
