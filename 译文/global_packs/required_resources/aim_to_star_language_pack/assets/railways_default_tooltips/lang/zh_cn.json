@@ -1,0 +1,12 @@
+{
+    "block.create.track_station.tooltip": "列车站",
+    "block.create.track_station.tooltip.summary": "手执_扳手_的_机械手_与_列车站_交互时，会_自动_组装或拆解列车。提示：_漏斗_能将扳手放入机械手。",
+    "block.railways.track_phantom.tooltip": "幻缈列车轨道",
+    "block.railways.track_phantom.summary": "所有转向架都能在_幻缈列车轨道_上正常行驶",
+    "block.railways.track_phantom.tooltip.condition1": "拿在手上时",
+    "block.railways.track_phantom.tooltip.behaviour1": "可以_看见_已放置的_幻缈轨道_",
+    "block.railways.track_phantom.tooltip.condition2": "未拿在手上时",
+    "block.railways.track_phantom.tooltip.behaviour2": "已放置的_幻缈轨道_隐去_身形_",
+    "block.create.railway_casing.tooltip": "列车机壳",
+    "block.create.railway_casing.tooltip.summary": "按住_焦点视图_键（默认为_Alt_）来选择放置的转向架样式。"
+}
