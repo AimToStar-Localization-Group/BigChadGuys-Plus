@@ -1,0 +1,1635 @@
+{
+	autofocus_id: "14810B78837B4B0E"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "all_things_cobblemon"
+	group: "20C8634F73DBA459"
+	icon: "cobblemon:poke_ball"
+	id: "349C0F19FA3B1CB8"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "14810B78837B4B0E"
+			rewards: [
+				{
+					count: 15
+					id: "07FA384EA855E042"
+					item: "cobblemon:poke_ball"
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 2.0d
+			subtitle: "{ftbquests.chapter.all_things_cobblemon.quests0.subtitle}"
+			tasks: [
+				{
+					id: "104DBC7FBE9C7A19"
+					item: "cobblemon:poke_ball"
+					type: "item"
+				}
+			]
+			title: "{ftbquests.chapter.all_things_cobblemon.quests0.title}"
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			icon: "gymbadges:harmony_badge"
+			id: "780E47EAD005EAED"
+			rewards: [
+				{
+					id: "2073ECBC71E0D731"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:harmony_badge"
+					id: "4DE97C43044C78FB"
+					pokemon_type: "normal"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests1.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			title: "{ftbquests.chapter.all_things_cobblemon.quests1.title}"
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:inferno_badge"
+			id: "47E67799787E5073"
+			rewards: [
+				{
+					id: "13A616DC402DC62E"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:inferno_badge"
+					id: "139B04D49DCA126E"
+					pokemon_type: "fire"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests2.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			title: "{ftbquests.chapter.all_things_cobblemon.quests2.title}"
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:dewdrop_badge"
+			id: "357FD4A04AEAD552"
+			rewards: [
+				{
+					id: "3BE78615352E3EE8"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:dewdrop_badge"
+					id: "5DC7C7FA79C695C4"
+					pokemon_type: "water"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests3.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			title: "{ftbquests.chapter.all_things_cobblemon.quests3.title}"
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:garden_badge"
+			id: "71EEC996FBC9F59D"
+			rewards: [
+				{
+					id: "0BFB2BA8F2D2D72F"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:garden_badge"
+					id: "33C14C8697D70285"
+					pokemon_type: "grass"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests4.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:tesla_badge"
+			id: "5317477055B5F26C"
+			rewards: [
+				{
+					id: "2CD376DE02DEB45B"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:tesla_badge"
+					id: "4F8483AE56D8D90E"
+					pokemon_type: "electric"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests5.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:glacier_badge"
+			id: "42E01BAEADA21B6D"
+			rewards: [
+				{
+					id: "4104A2D5EF68738B"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:glacier_badge"
+					id: "1A7DAA485C9415AA"
+					pokemon_type: "ice"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests6.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			x: 3.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:melee_badge"
+			id: "5A03E37DC2E40ED9"
+			rewards: [
+				{
+					id: "59DAA42F7FCE7640"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:melee_badge"
+					id: "02B38666B6F19BAA"
+					pokemon_type: "fighting"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests7.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			x: -1.0d
+			y: -11.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:blight_badge"
+			id: "112F0573BC37A239"
+			rewards: [
+				{
+					id: "6FBCCA5A5D9A5583"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:blight_badge"
+					id: "68FC66EADC836B21"
+					pokemon_type: "poison"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests8.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			x: 2.0d
+			y: -11.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:sand_badge"
+			id: "7732EFB2248A8EC0"
+			rewards: [
+				{
+					id: "3636F9712D9A4CC7"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:sand_badge"
+					id: "51AD163152F25872"
+					pokemon_type: "ground"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests9.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:crest_badge"
+			id: "62694E8988036CDE"
+			rewards: [
+				{
+					id: "3CFA9C7D4527CF3D"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:crest_badge"
+					id: "0BEAD43F036E5636"
+					pokemon_type: "flying"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests10.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			x: 3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:esper_badge"
+			id: "4755DC1C8969A869"
+			rewards: [
+				{
+					id: "6A161A6C57B254A9"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:esper_badge"
+					id: "33C3880D4DF0CA71"
+					pokemon_type: "psychic"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests11.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			x: -3.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:aphid_badge"
+			id: "14F88298CABD5E76"
+			rewards: [
+				{
+					id: "71CEF3EADC025DF0"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:aphid_badge"
+					id: "077606F0BACD17DA"
+					pokemon_type: "bug"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests12.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			x: 4.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:quarry_badge"
+			id: "5476F57B43AE68FA"
+			rewards: [
+				{
+					id: "52022A9ECAFB1AEA"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:quarry_badge"
+					id: "537514C80BDBA34A"
+					pokemon_type: "rock"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests13.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			x: -1.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:phantom_badge"
+			id: "6F20C844B280785E"
+			rewards: [
+				{
+					id: "3B9340DD16EF93E5"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:phantom_badge"
+					id: "0338916160BED7E4"
+					pokemon_type: "ghost"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests14.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			x: 2.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:mythos_badge"
+			id: "72AEF2959D6D54EE"
+			rewards: [
+				{
+					id: "33437922B4732C7A"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:mythos_badge"
+					id: "0BE8290ECC68796C"
+					pokemon_type: "dragon"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests15.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			x: 0.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:dusk_badge"
+			id: "6355F08A34A6CDA9"
+			rewards: [
+				{
+					id: "182C00C2F1B3AC37"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:dusk_badge"
+					id: "63744611C4B57292"
+					pokemon_type: "dark"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests16.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			x: -3.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:aegis_badge"
+			id: "4017AB3CEBFC1D6C"
+			rewards: [
+				{
+					id: "4A787FEEDEC2CB24"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:aegis_badge"
+					id: "601A14E6B94B5B0F"
+					pokemon_type: "steel"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests17.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			x: -2.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:fable_badge"
+			id: "1B3F2AC713E3457E"
+			rewards: [
+				{
+					id: "0510C7C2E2D6363C"
+					item: "cobblemon:exp_candy_l"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:fable_badge"
+					id: "3A59816C51D8FAF7"
+					pokemon_type: "fairy"
+					region: "choice_any"
+					shiny: false
+					title: "{ftbquests.chapter.all_things_cobblemon.quests18.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			x: 4.5d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"6355F08A34A6CDA9"
+				"72AEF2959D6D54EE"
+				"1B3F2AC713E3457E"
+				"5A03E37DC2E40ED9"
+				"47E67799787E5073"
+				"62694E8988036CDE"
+				"6F20C844B280785E"
+				"71EEC996FBC9F59D"
+				"7732EFB2248A8EC0"
+				"780E47EAD005EAED"
+				"112F0573BC37A239"
+				"4755DC1C8969A869"
+				"5476F57B43AE68FA"
+				"4017AB3CEBFC1D6C"
+				"357FD4A04AEAD552"
+				"5317477055B5F26C"
+				"42E01BAEADA21B6D"
+				"14F88298CABD5E76"
+			]
+			icon: "gymbadges:master_badge"
+			id: "270E355FC63E6FFD"
+			rewards: [
+				{
+					id: "1DEDC15204266852"
+					item: "cobblemon:exp_candy_xl"
+					type: "item"
+				}
+				{
+					id: "1A154C0B767AD2AE"
+					item: "gymbadges:master_badge"
+					type: "item"
+				}
+				{
+					id: "41CE15E030F5ADB6"
+					item: "clutter:epic_coin_pouch"
+					type: "item"
+				}
+				{
+					id: "70BAE309EA04C17E"
+					item: "cobblemon:master_ball"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "190C2A86AD187501"
+					title: "{ftbquests.chapter.all_things_cobblemon.quests19.tasks0.title}"
+					type: "checkmark"
+				}
+			]
+			x: 0.5d
+			y: -7.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["14810B78837B4B0E"]
+			id: "0908534C7A7F41FF"
+			optional: true
+			rewards: [
+				{
+					id: "254186512EC3EDF7"
+					item: "a_man_with_plushies:golden_plush_box"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "cobblemon:star_sweet"
+					id: "639169363944B4E2"
+					pokemon_type: "choice_any"
+					region: "choice_any"
+					shiny: true
+					title: "{ftbquests.chapter.all_things_cobblemon.quests20.tasks0.title}"
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			id: "7855F534F517BA99"
+			rewards: [
+				{
+					id: "05EE68693239E671"
+					item: "artifacts:running_shoes"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "cobblemon:poke_ball"
+					id: "55C9CDAF6A98D3E2"
+					pokemon_type: "choice_any"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 1L
+				}
+			]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7855F534F517BA99"]
+			icon: "cobblemon:poke_ball"
+			id: "52D13118A9377409"
+			rewards: [
+				{
+					id: "21341648A0102609"
+					item: "cobblemon:healing_machine"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "cobblemon:poke_ball"
+					id: "68895011CCF7BE82"
+					pokemon_type: "choice_any"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 5L
+				}
+			]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["52D13118A9377409"]
+			icon: "cobblemon:poke_ball"
+			id: "71FACD4A6EB2640F"
+			rewards: [
+				{
+					id: "20AF865719DCD2D0"
+					item: "cobblemon:exp_share"
+					type: "item"
+				}
+				{
+					id: "212F0A8734F61404"
+					item: "clutter:common_coin_pouch"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "cobblemon:poke_ball"
+					id: "2F0512B57FC42436"
+					pokemon_type: "choice_any"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 10L
+				}
+			]
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["71FACD4A6EB2640F"]
+			id: "45FB08C9E37B4897"
+			rewards: [
+				{
+					id: "0D55DD7561112E61"
+					item: "cobblemon:exp_share"
+					type: "item"
+				}
+				{
+					id: "472796ADD842978B"
+					item: "clutter:uncommon_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "6E71F423B2FF9C67"
+					item: "cobblemon:ultra_ball"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					id: "0E9CA04C19B533CC"
+					pokemon_type: "choice_any"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 15L
+				}
+			]
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["45FB08C9E37B4897"]
+			id: "42F47868A9290233"
+			rewards: [
+				{
+					id: "11335293F45959BE"
+					item: "cobblemon:exp_share"
+					type: "item"
+				}
+				{
+					id: "5595F634A2A0DB07"
+					item: "clutter:uncommon_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "6C4A661AC0241AB6"
+					item: "cobblemon:ultra_ball"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					id: "642F7C8E34419980"
+					pokemon_type: "choice_any"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 15L
+				}
+			]
+			x: -5.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["42F47868A9290233"]
+			id: "381AAEB456592ABF"
+			rewards: [
+				{
+					id: "34750A869297866B"
+					item: "cobblemon:exp_share"
+					type: "item"
+				}
+				{
+					id: "702D692D28447342"
+					item: "clutter:rare_coin_pouch"
+					type: "item"
+				}
+				{
+					id: "057ED91241A2DF47"
+					item: "cobblemon:master_ball"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					id: "718448CBFCAC1E61"
+					pokemon_type: "choice_any"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 20L
+				}
+			]
+			x: -7.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["381AAEB456592ABF"]
+			id: "7BBBF8D6E08A4697"
+			rewards: [
+				{
+					id: "26FC7C0F0EEA1169"
+					item: "cobblemon:exp_share"
+					type: "item"
+				}
+				{
+					id: "017DA45E76D69411"
+					item: "clutter:rare_coin_pouch"
+					type: "item"
+				}
+				{
+					id: "57AD7E09A1638FD8"
+					item: "cobblemon:master_ball"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					id: "6B1C7AFB8281295C"
+					pokemon_type: "choice_any"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 20L
+				}
+			]
+			x: -7.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7BBBF8D6E08A4697"]
+			id: "1789DF7715BEC194"
+			rewards: [
+				{
+					id: "30D133C298732D45"
+					item: "cobblemon:exp_share"
+					type: "item"
+				}
+				{
+					id: "1D51A5D7F22275B5"
+					item: "clutter:epic_coin_pouch"
+					type: "item"
+				}
+				{
+					id: "2D0872D6B58ECC68"
+					item: "cobblemon:master_ball"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					id: "071C09DCB7518060"
+					pokemon_type: "choice_any"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 25L
+				}
+			]
+			x: -9.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["14810B78837B4B0E"]
+			icon: "ftbquests:book"
+			id: "488706BDC91646B9"
+			optional: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					icon: "ftbquests:book"
+					id: "64C0F963B380D936"
+					table_id: 8036872082729313520L
+					type: "choice"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					id: "3B7D2E43E726902F"
+					pokemon_type: "choice_any"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 10L
+				}
+			]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["14810B78837B4B0E"]
+			icon: "ftbquests:book"
+			id: "6B2E10419BBF9DA0"
+			optional: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "18993CE88E9DEBA7"
+					table_id: 8036872082729313520L
+					type: "choice"
+				}
+			]
+			tasks: [
+				{
+					action: "catch"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					id: "4C6633ECE607E864"
+					pokemon_type: "choice_any"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 5L
+				}
+			]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["14810B78837B4B0E"]
+			icon: "ftbquests:book"
+			id: "219FBA7BFD57F1CE"
+			optional: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0D78930419E6C9FC"
+					table_id: 8036872082729313520L
+					type: "choice"
+				}
+			]
+			tasks: [
+				{
+					action: "level_up"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					id: "4B176B11C8D5E85E"
+					pokemon_type: "choice_any"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 15L
+				}
+			]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:harmony_badge"
+			id: "4858E28BCD6ABD82"
+			rewards: [
+				{
+					id: "63751F88975DEA5E"
+					item: "gymbadges:harmony_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:harmony_badge"
+					id: "0A93934D7D28E8D1"
+					pokemon_type: "normal"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			id: "4A06C2C39EACE390"
+			rewards: [
+				{
+					id: "49D3AE38D709F915"
+					item: "gymbadges:inferno_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:inferno_badge"
+					id: "2FE690B9B6B9B14C"
+					pokemon_type: "fire"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:dewdrop_badge"
+			id: "1A45DAA33978AC80"
+			rewards: [
+				{
+					id: "6703CA0C9C7325FA"
+					item: "gymbadges:dewdrop_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:dewdrop_badge"
+					id: "2DD3DE82DC46A304"
+					pokemon_type: "water"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			id: "37C6CB855AAE335F"
+			rewards: [
+				{
+					id: "0C2DFA687E4DDB40"
+					item: "gymbadges:garden_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:garden_badge"
+					id: "0092E71EABC73ABD"
+					pokemon_type: "grass"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			id: "2858157C753CDB7D"
+			rewards: [
+				{
+					id: "5ED30C8806CD7E9C"
+					item: "gymbadges:tesla_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:tesla_badge"
+					id: "3DD8383CB8C1DBD5"
+					pokemon_type: "electric"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: 2.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			id: "66923684B4ECBED5"
+			rewards: [
+				{
+					id: "3D3480900BB6242A"
+					item: "gymbadges:glacier_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:glacier_badge"
+					id: "7EB70AA784D5A075"
+					pokemon_type: "ice"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: 1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:melee_badge"
+			id: "4E8C0A86882D46EF"
+			rewards: [
+				{
+					id: "348B1FB23E61BA40"
+					item: "gymbadges:melee_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:melee_badge"
+					id: "36B99CC5EF9EE6D2"
+					pokemon_type: "fighting"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			id: "66EA83F8403078AD"
+			rewards: [
+				{
+					id: "6D9240AAE1B46B5A"
+					item: "gymbadges:blight_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:blight_badge"
+					id: "69190C726A75AE00"
+					pokemon_type: "poison"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: 0.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			id: "01F5ECB9732F5775"
+			rewards: [
+				{
+					id: "139EAC472E1C020F"
+					item: "gymbadges:sand_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:sand_badge"
+					id: "1ABD0D2E12874AC6"
+					pokemon_type: "ground"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: -0.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			id: "41AA8DF641336DA3"
+			rewards: [
+				{
+					id: "43BFE304B0183463"
+					item: "gymbadges:crest_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:crest_badge"
+					id: "69258A8B62E7A0A9"
+					pokemon_type: "flying"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: -1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:esper_badge"
+			id: "7EFE9BDA55E47795"
+			rewards: [
+				{
+					id: "29F92E1D5A703579"
+					item: "gymbadges:esper_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:esper_badge"
+					id: "60F7ECD639B8F91B"
+					pokemon_type: "psychic"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			id: "137DAF0B1E615E1A"
+			rewards: [
+				{
+					id: "12034BE824106EB4"
+					item: "gymbadges:aphid_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:aphid_badge"
+					id: "507F5FC08150290E"
+					pokemon_type: "bug"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: 2.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			id: "208ACB62E047AE73"
+			rewards: [
+				{
+					id: "5359EC01A65758AB"
+					item: "gymbadges:quarry_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:quarry_badge"
+					id: "5867F2421467E05E"
+					pokemon_type: "rock"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			id: "20560BB1A42FEA05"
+			rewards: [
+				{
+					id: "21CA41490355ACB7"
+					item: "gymbadges:phantom_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:phantom_badge"
+					id: "09CD71F1F8D46D32"
+					pokemon_type: "ghost"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			icon: "gymbadges:mythos_badge"
+			id: "164CFBC66F76AC5B"
+			rewards: [
+				{
+					id: "5910F8CB0A653A51"
+					item: "gymbadges:mythos_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:mythos_badge"
+					id: "6C77C473D09ED05D"
+					pokemon_type: "dragon"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			id: "0313434A1D060D6F"
+			rewards: [
+				{
+					id: "7CC67809D49288E8"
+					item: "gymbadges:dusk_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:dusk_badge"
+					id: "0A790A9DC18D4026"
+					pokemon_type: "dark"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: -1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			id: "7315B82B484ABFD5"
+			rewards: [
+				{
+					id: "1248E97C680B2907"
+					item: "gymbadges:aegis_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:aegis_badge"
+					id: "0ED36EAAE764E4BC"
+					pokemon_type: "steel"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["14810B78837B4B0E"]
+			hide_dependency_lines: true
+			id: "7C6B24405B091DFA"
+			rewards: [
+				{
+					id: "75F595E3E30F0E66"
+					item: "gymbadges:fable_badge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					action: "defeat"
+					entity: "cobblemon_quests:choice_any"
+					form: "choice_any"
+					gender: "choice_any"
+					icon: "gymbadges:fable_badge"
+					id: "173DF1A481A69CA8"
+					pokemon_type: "fairy"
+					region: "choice_any"
+					shiny: false
+					type: "cobblemon_tasks:cobblemon_task"
+					value: 50L
+				}
+			]
+			x: 3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"137DAF0B1E615E1A"
+				"0313434A1D060D6F"
+				"164CFBC66F76AC5B"
+				"2858157C753CDB7D"
+				"7C6B24405B091DFA"
+				"4E8C0A86882D46EF"
+				"4A06C2C39EACE390"
+				"41AA8DF641336DA3"
+				"20560BB1A42FEA05"
+				"37C6CB855AAE335F"
+				"01F5ECB9732F5775"
+				"66923684B4ECBED5"
+				"4858E28BCD6ABD82"
+				"66EA83F8403078AD"
+				"7EFE9BDA55E47795"
+				"208ACB62E047AE73"
+				"7315B82B484ABFD5"
+				"1A45DAA33978AC80"
+			]
+			icon: "clutter:crown"
+			id: "3B104B9EF0A9A930"
+			rewards: [
+				{
+					count: 32
+					id: "271F380CEA624C4D"
+					item: "cobblemon:master_ball"
+					type: "item"
+				}
+				{
+					count: 32
+					id: "0E98C803C817FC38"
+					item: "clutter:epic_coin_pouch"
+					type: "item"
+				}
+				{
+					id: "34C35F2487FEFA04"
+					item: "create:creative_motor"
+					type: "item"
+				}
+			]
+			subtitle: "{ftbquests.chapter.all_things_cobblemon.quests50.subtitle}"
+			tasks: [
+				{
+					id: "7531AF5959C019E1"
+					title: "{ftbquests.chapter.all_things_cobblemon.quests50.tasks0.title}"
+					type: "checkmark"
+				}
+			]
+			x: 0.5d
+			y: 5.0d
+		}
+	]
+	title: "{ftbquests.chapter.all_things_cobblemon.title}"
+}

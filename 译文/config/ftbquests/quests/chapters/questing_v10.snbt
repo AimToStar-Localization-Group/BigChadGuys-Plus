@@ -1,4 +1,5 @@
 {
+	autofocus_id: "5CC66C2156C403AF"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "questing_v10"
@@ -741,8 +742,7 @@
 					entity: "endermanoverhaul:coral_enderman"
 					icon: "endermanoverhaul:coral_enderman_spawn_egg"
 					id: "1ED55A71DB0A04FD"
-					title: "{ftbquests.chapter.questing_v10.quests28.task0.title}"
-
+					title: "{ftbquests.chapter.questing_v10.quests28.tasks5.title}"
 					type: "kill"
 					value: 1L
 				}
@@ -4946,7 +4946,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests203.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests200.subtitle}"
 			tasks: [
 				{
 					id: "4C3489AD0A2F0563"
@@ -4971,7 +4971,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests203.title}"
+			title: "{ftbquests.chapter.questing_v10.quests200.title}"
 			x: 14.0d
 			y: 0.0d
 		}
@@ -4985,7 +4985,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests204.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests201.subtitle}"
 			tasks: [
 				{
 					count: 10L
@@ -4994,7 +4994,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests204.title}"
+			title: "{ftbquests.chapter.questing_v10.quests201.title}"
 			x: 16.0d
 			y: -0.5d
 		}
@@ -5008,7 +5008,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests205.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests202.subtitle}"
 			tasks: [
 				{
 					count: 10L
@@ -5017,7 +5017,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests205.title}"
+			title: "{ftbquests.chapter.questing_v10.quests202.title}"
 			x: 16.0d
 			y: -1.5d
 		}
@@ -5031,7 +5031,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests206.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests203.subtitle}"
 			tasks: [
 				{
 					count: 10L
@@ -5040,7 +5040,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests206.title}"
+			title: "{ftbquests.chapter.questing_v10.quests203.title}"
 			x: 16.0d
 			y: -2.5d
 		}
@@ -5054,7 +5054,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests207.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests204.subtitle}"
 			tasks: [
 				{
 					count: 10L
@@ -5063,7 +5063,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests207.title}"
+			title: "{ftbquests.chapter.questing_v10.quests204.title}"
 			x: 16.0d
 			y: 0.5d
 		}
@@ -5077,7 +5077,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests208.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests205.subtitle}"
 			tasks: [
 				{
 					count: 10L
@@ -5086,7 +5086,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests208.title}"
+			title: "{ftbquests.chapter.questing_v10.quests205.title}"
 			x: 16.0d
 			y: 1.5d
 		}
@@ -5100,7 +5100,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests209.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests206.subtitle}"
 			tasks: [
 				{
 					count: 10L
@@ -5109,7 +5109,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests209.title}"
+			title: "{ftbquests.chapter.questing_v10.quests206.title}"
 			x: 16.0d
 			y: 2.5d
 		}
@@ -5136,11 +5136,11 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests210.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests207.subtitle}"
 			tasks: [
 				{
 					id: "399F9892EB0312AC"
-					title: "{ftbquests.chapter.questing_v10.quests210.tasks0.title}"
+					title: "{ftbquests.chapter.questing_v10.quests207.tasks0.title}"
 					type: "checkmark"
 				}
 			]
@@ -5157,7 +5157,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests211.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests208.subtitle}"
 			tasks: [
 				{
 					id: "0A3B1D031469D205"
@@ -5165,7 +5165,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests211.title}"
+			title: "{ftbquests.chapter.questing_v10.quests208.title}"
 			x: 19.5d
 			y: -1.5d
 		}
@@ -5179,7 +5179,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests212.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests209.subtitle}"
 			tasks: [
 				{
 					id: "3FCA314A887CC0B1"
@@ -5187,7 +5187,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests212.title}"
+			title: "{ftbquests.chapter.questing_v10.quests209.title}"
 			x: 19.5d
 			y: -0.5d
 		}
@@ -5201,7 +5201,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests213.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests210.subtitle}"
 			tasks: [
 				{
 					id: "2F0C61A027C368DC"
@@ -5222,7 +5222,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests214.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests211.subtitle}"
 			tasks: [
 				{
 					id: "27175924B9D08B7A"
@@ -5248,7 +5248,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests215.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests212.subtitle}"
 			tasks: [
 				{
 					id: "06F03174F0FD6B21"
@@ -5267,7 +5267,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests215.title}"
+			title: "{ftbquests.chapter.questing_v10.quests212.title}"
 			x: 21.0d
 			y: 0.0d
 		}
@@ -5284,7 +5284,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests216.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests213.subtitle}"
 			tasks: [
 				{
 					id: "204E5114B03423B5"
@@ -5303,7 +5303,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests216.title}"
+			title: "{ftbquests.chapter.questing_v10.quests213.title}"
 			x: 24.0d
 			y: 0.0d
 		}
@@ -5317,7 +5317,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests217.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests214.subtitle}"
 			tasks: [
 				{
 					id: "43F7B5237B10ECF0"
@@ -5338,7 +5338,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests218.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests215.subtitle}"
 			tasks: [
 				{
 					id: "60E0B66BC8A5E2A2"
@@ -5352,26 +5352,26 @@
 		{
 			dependencies: ["08F4130B357BB3A8"]
 			id: "6E9C8E46C34307EB"
-			subtitle: "{ftbquests.chapter.questing_v10.quests219.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests216.subtitle}"
 			tasks: [
 				{
 					id: "7B4123E3F7CEA798"
-					title: "{ftbquests.chapter.questing_v10.quests219.tasks0.title}"
+					title: "{ftbquests.chapter.questing_v10.quests216.tasks0.title}"
 					type: "checkmark"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests219.title}"
+			title: "{ftbquests.chapter.questing_v10.quests216.title}"
 			x: 22.5d
 			y: 0.0d
 		}
 		{
 			dependencies: ["452DC425F21DABA4"]
 			id: "71741AAD7A7166AF"
-			subtitle: "{ftbquests.chapter.questing_v10.quests220.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests217.subtitle}"
 			tasks: [
 				{
 					id: "084E39D71986CE63"
-					title: "{ftbquests.chapter.questing_v10.quests220.tasks0.title}"
+					title: "{ftbquests.chapter.questing_v10.quests217.tasks0.title}"
 					type: "checkmark"
 				}
 			]
@@ -5393,7 +5393,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests221.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests218.subtitle}"
 			tasks: [
 				{
 					count: 10L
@@ -5427,7 +5427,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests222.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests219.subtitle}"
 			tasks: [
 				{
 					count: 10L
@@ -5461,7 +5461,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests223.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests220.subtitle}"
 			tasks: [
 				{
 					count: 10L
@@ -5495,7 +5495,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests224.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests221.subtitle}"
 			tasks: [
 				{
 					count: 10L
@@ -5526,11 +5526,11 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests225.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests222.subtitle}"
 			tasks: [
 				{
 					id: "574087EDA7E862AC"
-					title: "{ftbquests.chapter.questing_v10.quests225.tasks0.title}"
+					title: "{ftbquests.chapter.questing_v10.quests222.tasks0.title}"
 					type: "checkmark"
 				}
 			]
@@ -5573,7 +5573,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests227.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests224.subtitle}"
 			tasks: [
 				{
 					id: "0BE4209F2DC7D7E4"
@@ -5581,7 +5581,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests227.title}"
+			title: "{ftbquests.chapter.questing_v10.quests224.title}"
 			x: 18.0d
 			y: -2.5d
 		}
@@ -5607,7 +5607,7 @@
 					type: "custom"
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests229.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests226.subtitle}"
 			tasks: [
 				{
 					count: 16L
@@ -12574,14 +12574,14 @@
 				}
 			]
 			size: 2.0d
-			subtitle: "{ftbquests.chapter.questing_v10.quests552.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests549.subtitle}"
 			tasks: [
 				{
 					id: "6DB8A7FBD851D38F"
 					type: "checkmark"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests552.title}"
+			title: "{ftbquests.chapter.questing_v10.quests549.title}"
 			x: 49.0d
 			y: -0.5d
 		}
@@ -12602,7 +12602,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests553.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests550.subtitle}"
 			tasks: [
 				{
 					id: "418DE30ADADAF3D1"
@@ -12610,7 +12610,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests553.title}"
+			title: "{ftbquests.chapter.questing_v10.quests550.title}"
 			x: 14.0d
 			y: -6.5d
 		}
@@ -12631,7 +12631,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests554.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests551.subtitle}"
 			tasks: [
 				{
 					id: "293E7E299514BB32"
@@ -12672,7 +12672,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests555.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests552.subtitle}"
 			tasks: [
 				{
 					id: "43EF64817C1FAECF"
@@ -12699,7 +12699,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests556.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests553.subtitle}"
 			tasks: [
 				{
 					id: "653137BE674653E8"
@@ -12721,7 +12721,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests557.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests554.subtitle}"
 			tasks: [
 				{
 					id: "35E8F7F88A7A2468"
@@ -12729,7 +12729,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests557.title}"
+			title: "{ftbquests.chapter.questing_v10.quests554.title}"
 			x: 17.5d
 			y: -10.0d
 		}
@@ -12780,14 +12780,14 @@
 					type: "item"
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests560.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests557.subtitle}"
 			tasks: [
 				{
 					id: "64C869CBA3DE82FD"
 					type: "checkmark"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests560.title}"
+			title: "{ftbquests.chapter.questing_v10.quests557.title}"
 			x: 18.5d
 			y: -11.0d
 		}
@@ -12797,11 +12797,11 @@
 				"374A31C4CF17F6F0"
 			]
 			id: "0A3100EF9AF6E6AD"
-			subtitle: "{ftbquests.chapter.questing_v10.quests561.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests558.subtitle}"
 			tasks: [
 				{
 					id: "42C1FE780B2C7356"
-					title: "{ftbquests.chapter.questing_v10.quests561.tasks0.title}"
+					title: "{ftbquests.chapter.questing_v10.quests558.tasks0.title}"
 					type: "checkmark"
 				}
 			]
@@ -12812,7 +12812,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "clutter:panda_plushie"
 			id: "5BEE6CB6B7668DD6"
-			subtitle: "{ftbquests.chapter.questing_v10.quests562.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests559.subtitle}"
 			tasks: [
 				{
 					biome: "minecraft:bamboo_jungle"
@@ -12820,7 +12820,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests562.title}"
+			title: "{ftbquests.chapter.questing_v10.quests559.title}"
 			x: 18.5d
 			y: -14.0d
 		}
@@ -12828,7 +12828,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "chipped:desert_sand"
 			id: "3B6E69895514E1FA"
-			subtitle: "{ftbquests.chapter.questing_v10.quests563.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests560.subtitle}"
 			tasks: [
 				{
 					biome: "terralith:desert_canyon"
@@ -12836,7 +12836,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests563.title}"
+			title: "{ftbquests.chapter.questing_v10.quests560.title}"
 			x: 20.5d
 			y: -12.0d
 		}
@@ -12844,7 +12844,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "minecraft:blue_ice"
 			id: "7893AEB98B383D3E"
-			subtitle: "{ftbquests.chapter.questing_v10.quests564.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests561.subtitle}"
 			tasks: [
 				{
 					biome: "minecraft:ice_spikes"
@@ -12852,7 +12852,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests564.title}"
+			title: "{ftbquests.chapter.questing_v10.quests561.title}"
 			x: 19.5d
 			y: -13.0d
 		}
@@ -12860,7 +12860,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "minecraft:powder_snow_bucket"
 			id: "5AD7629D7751B157"
-			subtitle: "{ftbquests.chapter.questing_v10.quests565.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests562.subtitle}"
 			tasks: [
 				{
 					biome: "terralith:alpine_grove"
@@ -12868,7 +12868,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests565.title}"
+			title: "{ftbquests.chapter.questing_v10.quests562.title}"
 			x: 21.0d
 			y: -13.5d
 		}
@@ -12876,7 +12876,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "minecraft:lilac"
 			id: "50EF147F8925ACB0"
-			subtitle: "{ftbquests.chapter.questing_v10.quests566.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests563.subtitle}"
 			tasks: [
 				{
 					biome: "terralith:lavender_valley"
@@ -12884,7 +12884,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests566.title}"
+			title: "{ftbquests.chapter.questing_v10.quests563.title}"
 			x: 21.5d
 			y: -15.0d
 		}
@@ -12892,7 +12892,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "cobblemon:moon_stone"
 			id: "68047EBFAB2400FC"
-			subtitle: "{ftbquests.chapter.questing_v10.quests567.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests564.subtitle}"
 			tasks: [
 				{
 					biome: "terralith:moonlight_grove"
@@ -12900,7 +12900,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests567.title}"
+			title: "{ftbquests.chapter.questing_v10.quests564.title}"
 			x: 22.0d
 			y: -12.5d
 		}
@@ -12908,7 +12908,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "minecraft:dead_bush"
 			id: "44B1E953A1D2A3AC"
-			subtitle: "{ftbquests.chapter.questing_v10.quests568.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests565.subtitle}"
 			tasks: [
 				{
 					biome: "terralith:lush_desert"
@@ -12916,7 +12916,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests568.title}"
+			title: "{ftbquests.chapter.questing_v10.quests565.title}"
 			x: 19.0d
 			y: -15.5d
 		}
@@ -12924,7 +12924,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "chipped:white_sand"
 			id: "1632E20F5F5D0EA5"
-			subtitle: "{ftbquests.chapter.questing_v10.quests569.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests566.subtitle}"
 			tasks: [
 				{
 					biome: "terralith:desert_oasis"
@@ -12932,7 +12932,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests569.title}"
+			title: "{ftbquests.chapter.questing_v10.quests566.title}"
 			x: 20.5d
 			y: -16.0d
 		}
@@ -12940,7 +12940,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "minecraft:blackstone"
 			id: "7DEEAC7A88F96C16"
-			subtitle: "{ftbquests.chapter.questing_v10.quests570.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests567.subtitle}"
 			tasks: [
 				{
 					biome: "terralith:caldera"
@@ -12948,7 +12948,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests570.title}"
+			title: "{ftbquests.chapter.questing_v10.quests567.title}"
 			x: 22.5d
 			y: -14.0d
 		}
@@ -12956,7 +12956,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "minecraft:cherry_sapling"
 			id: "2570A67FEE7D2019"
-			subtitle: "{ftbquests.chapter.questing_v10.quests571.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests568.subtitle}"
 			tasks: [
 				{
 					biome: "terralith:sakura_valley"
@@ -12964,7 +12964,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests571.title}"
+			title: "{ftbquests.chapter.questing_v10.quests568.title}"
 			x: 17.5d
 			y: -15.0d
 		}
@@ -12972,7 +12972,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "minecraft:jungle_sapling"
 			id: "18712A682C2D9B10"
-			subtitle: "{ftbquests.chapter.questing_v10.quests573.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests569.subtitle}"
 			tasks: [
 				{
 					biome: "terralith:tropical_jungle"
@@ -12980,7 +12980,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests573.title}"
+			title: "{ftbquests.chapter.questing_v10.quests569.title}"
 			x: 23.0d
 			y: -11.5d
 		}
@@ -12988,7 +12988,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "minecraft:pointed_dripstone"
 			id: "3913093E98A3FD0E"
-			subtitle: "{ftbquests.chapter.questing_v10.quests574.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests570.subtitle}"
 			tasks: [
 				{
 					biome: "terralith:stony_spires"
@@ -12996,7 +12996,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests574.title}"
+			title: "{ftbquests.chapter.questing_v10.quests570.title}"
 			x: 23.5d
 			y: -13.0d
 		}
@@ -13004,7 +13004,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "betterend:hydrothermal_vent"
 			id: "44BD301AB3A04FF2"
-			subtitle: "{ftbquests.chapter.questing_v10.quests575.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests571.subtitle}"
 			tasks: [
 				{
 					biome: "terralith:yellowstone"
@@ -13012,7 +13012,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests575.title}"
+			title: "{ftbquests.chapter.questing_v10.quests571.title}"
 			x: 22.5d
 			y: -10.0d
 		}
@@ -13020,7 +13020,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "minecraft:mangrove_propagule"
 			id: "2C354059F6C41668"
-			subtitle: "{ftbquests.chapter.questing_v10.quests576.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests572.subtitle}"
 			tasks: [
 				{
 					biome: "minecraft:mangrove_swamp"
@@ -13028,7 +13028,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests576.title}"
+			title: "{ftbquests.chapter.questing_v10.quests572.title}"
 			x: 22.0d
 			y: -16.5d
 		}
@@ -13036,7 +13036,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "vinery:cherry"
 			id: "6CA5F1265ADD4607"
-			subtitle: "{ftbquests.chapter.questing_v10.quests577.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests573.subtitle}"
 			tasks: [
 				{
 					biome: "minecraft:cherry_grove"
@@ -13044,7 +13044,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests577.title}"
+			title: "{ftbquests.chapter.questing_v10.quests573.title}"
 			x: 24.0d
 			y: -14.5d
 		}
@@ -13052,7 +13052,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "minecraft:water_bucket"
 			id: "7EC628737D38FA75"
-			subtitle: "{ftbquests.chapter.questing_v10.quests578.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests574.subtitle}"
 			tasks: [
 				{
 					biome: "#minecraft:is_deep_ocean"
@@ -13060,7 +13060,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests578.title}"
+			title: "{ftbquests.chapter.questing_v10.quests574.title}"
 			x: 20.0d
 			y: -14.5d
 		}
@@ -13068,7 +13068,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "minecraft:lava_bucket"
 			id: "48B228FA02B16AF2"
-			subtitle: "{ftbquests.chapter.questing_v10.quests579.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests575.subtitle}"
 			tasks: [
 				{
 					biome: "terralith:volcanic_crater"
@@ -13076,7 +13076,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests579.title}"
+			title: "{ftbquests.chapter.questing_v10.quests575.title}"
 			x: 23.0d
 			y: -15.5d
 		}
@@ -13096,7 +13096,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests580.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests576.subtitle}"
 			tasks: [
 				{
 					id: "3A4AD0679036EF8C"
@@ -13110,24 +13110,24 @@
 		{
 			dependencies: ["61C810C3DF0FC947"]
 			id: "6C06BD52E4CBBC19"
-			subtitle: "{ftbquests.chapter.questing_v10.quests581.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests577.subtitle}"
 			tasks: [
 				{
 					count: 999L
 					id: "28C6ACF6959FC10E"
 					item: "clutter:copper_coin_stack"
-					title: "{ftbquests.chapter.questing_v10.quests581.tasks0.title}"
+					title: "{ftbquests.chapter.questing_v10.quests577.tasks0.title}"
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests581.title}"
+			title: "{ftbquests.chapter.questing_v10.quests577.title}"
 			x: 16.0d
 			y: 6.5d
 		}
 		{
 			dependencies: ["6C06BD52E4CBBC19"]
 			id: "5B9062A71319C13C"
-			subtitle: "{ftbquests.chapter.questing_v10.quests582.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests578.subtitle}"
 			tasks: [
 				{
 					count: 999L
@@ -13136,7 +13136,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests582.title}"
+			title: "{ftbquests.chapter.questing_v10.quests578.title}"
 			x: 18.0d
 			y: 6.5d
 		}
@@ -13150,7 +13150,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests583.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests579.subtitle}"
 			tasks: [
 				{
 					count: 999L
@@ -13159,7 +13159,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests583.title}"
+			title: "{ftbquests.chapter.questing_v10.quests579.title}"
 			x: 20.0d
 			y: 6.5d
 		}
@@ -13173,7 +13173,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests584.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests580.subtitle}"
 			tasks: [
 				{
 					id: "7CF7A7EC1379C302"
@@ -13200,7 +13200,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests585.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests581.subtitle}"
 			tasks: [
 				{
 					id: "7AF232C8AF69E37A"
@@ -13208,7 +13208,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests585.title}"
+			title: "{ftbquests.chapter.questing_v10.quests581.title}"
 			x: 22.0d
 			y: 9.0d
 		}
@@ -13223,7 +13223,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests586.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests582.subtitle}"
 			tasks: [
 				{
 					id: "76BFB1E450A2E8CA"
@@ -13231,7 +13231,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests586.title}"
+			title: "{ftbquests.chapter.questing_v10.quests582.title}"
 			x: 24.0d
 			y: 9.0d
 		}
@@ -13255,7 +13255,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests587.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests583.subtitle}"
 			tasks: [
 				{
 					count: 320L
@@ -13264,14 +13264,14 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests587.title}"
+			title: "{ftbquests.chapter.questing_v10.quests583.title}"
 			x: 20.0d
 			y: 11.0d
 		}
 		{
 			dependencies: ["3927CD61B22E32AE"]
 			id: "1117EB14DF9D54DD"
-			subtitle: "{ftbquests.chapter.questing_v10.quests588.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests584.subtitle}"
 			tasks: [
 				{
 					id: "6746A7FD96203929"
@@ -13293,7 +13293,7 @@
 		{
 			dependencies: ["1117EB14DF9D54DD"]
 			id: "6D1A66BA080BAA0B"
-			subtitle: "{ftbquests.chapter.questing_v10.quests589.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests585.subtitle}"
 			tasks: [
 				{
 					count: 320L
@@ -13302,14 +13302,14 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests589.title}"
+			title: "{ftbquests.chapter.questing_v10.quests585.title}"
 			x: 24.0d
 			y: 11.0d
 		}
 		{
 			dependencies: ["6D1A66BA080BAA0B"]
 			id: "3A25F490BAD7F5C3"
-			subtitle: "{ftbquests.chapter.questing_v10.quests590.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests586.subtitle}"
 			tasks: [
 				{
 					id: "2F20D3823E213F1F"
@@ -13325,14 +13325,14 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests590.title}"
+			title: "{ftbquests.chapter.questing_v10.quests586.title}"
 			x: 24.0d
 			y: 13.0d
 		}
 		{
 			dependencies: ["3A25F490BAD7F5C3"]
 			id: "0D854E5DB6256716"
-			subtitle: "{ftbquests.chapter.questing_v10.quests591.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests587.subtitle}"
 			tasks: [
 				{
 					count: 640L
@@ -13341,7 +13341,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests591.title}"
+			title: "{ftbquests.chapter.questing_v10.quests587.title}"
 			x: 22.0d
 			y: 13.0d
 		}
@@ -13355,7 +13355,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests592.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests588.subtitle}"
 			tasks: [
 				{
 					id: "3393ECF58046BA96"
@@ -13392,11 +13392,11 @@
 					type: "item"
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests593.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests589.subtitle}"
 			tasks: [
 				{
 					id: "2BDC954BB5AEE9B3"
-					title: "{ftbquests.chapter.questing_v10.quests593.tasks0.title}"
+					title: "{ftbquests.chapter.questing_v10.quests589.tasks0.title}"
 					type: "checkmark"
 				}
 			]
@@ -13414,7 +13414,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests594.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests590.subtitle}"
 			tasks: [
 				{
 					id: "0632A807B25E8B08"
@@ -13422,7 +13422,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests594.title}"
+			title: "{ftbquests.chapter.questing_v10.quests590.title}"
 			x: -1.5d
 			y: -9.0d
 		}
@@ -13437,7 +13437,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests595.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests591.subtitle}"
 			tasks: [
 				{
 					id: "0E82A3FF34BB4322"
@@ -13445,7 +13445,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests595.title}"
+			title: "{ftbquests.chapter.questing_v10.quests591.title}"
 			x: -3.0d
 			y: -7.5d
 		}
@@ -13460,7 +13460,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests596.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests592.subtitle}"
 			tasks: [
 				{
 					id: "4AD1172A6EDD42B4"
@@ -13468,7 +13468,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests596.title}"
+			title: "{ftbquests.chapter.questing_v10.quests592.title}"
 			x: 0.0d
 			y: -10.5d
 		}
@@ -13483,7 +13483,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests597.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests593.subtitle}"
 			tasks: [
 				{
 					id: "41F9E0BEE442E244"
@@ -13491,7 +13491,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests597.title}"
+			title: "{ftbquests.chapter.questing_v10.quests593.title}"
 			x: -3.0d
 			y: -9.0d
 		}
@@ -13506,7 +13506,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests598.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests594.subtitle}"
 			tasks: [
 				{
 					id: "0F97272AF29331A4"
@@ -13514,7 +13514,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests598.title}"
+			title: "{ftbquests.chapter.questing_v10.quests594.title}"
 			x: -1.5d
 			y: -10.5d
 		}
@@ -13529,7 +13529,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests599.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests595.subtitle}"
 			tasks: [
 				{
 					id: "2CCD5E5DB0C9203B"
@@ -13537,7 +13537,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests599.title}"
+			title: "{ftbquests.chapter.questing_v10.quests595.title}"
 			x: -4.5d
 			y: -9.0d
 		}
@@ -13552,7 +13552,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests600.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests596.subtitle}"
 			tasks: [
 				{
 					id: "078AF661F4AE571B"
@@ -13560,7 +13560,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests600.title}"
+			title: "{ftbquests.chapter.questing_v10.quests596.title}"
 			x: -3.0d
 			y: -10.5d
 		}
@@ -13575,7 +13575,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests601.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests597.subtitle}"
 			tasks: [
 				{
 					id: "2E96C6B3C2327EF9"
@@ -13583,7 +13583,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests601.title}"
+			title: "{ftbquests.chapter.questing_v10.quests597.title}"
 			x: -1.5d
 			y: -12.0d
 		}
@@ -13598,7 +13598,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests602.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests598.subtitle}"
 			tasks: [
 				{
 					id: "60A07805C75F6DF6"
@@ -13606,7 +13606,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests602.title}"
+			title: "{ftbquests.chapter.questing_v10.quests598.title}"
 			x: -4.5d
 			y: -10.5d
 		}
@@ -13621,7 +13621,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests603.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests599.subtitle}"
 			tasks: [
 				{
 					id: "60A86574553DCBC7"
@@ -13629,7 +13629,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests603.title}"
+			title: "{ftbquests.chapter.questing_v10.quests599.title}"
 			x: -3.0d
 			y: -12.0d
 		}
@@ -13644,7 +13644,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests604.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests600.subtitle}"
 			tasks: [
 				{
 					id: "7A81166474764B47"
@@ -13652,7 +13652,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests604.title}"
+			title: "{ftbquests.chapter.questing_v10.quests600.title}"
 			x: -3.0d
 			y: -13.5d
 		}
@@ -13667,7 +13667,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests605.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests601.subtitle}"
 			tasks: [
 				{
 					id: "6368391B46B2F306"
@@ -13675,7 +13675,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests605.title}"
+			title: "{ftbquests.chapter.questing_v10.quests601.title}"
 			x: -4.5d
 			y: -12.0d
 		}
@@ -13690,7 +13690,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests606.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests602.subtitle}"
 			tasks: [
 				{
 					id: "2513D4B1FE80C3B3"
@@ -13698,7 +13698,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests606.title}"
+			title: "{ftbquests.chapter.questing_v10.quests602.title}"
 			x: -6.0d
 			y: -10.5d
 		}
@@ -13713,7 +13713,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests607.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests603.subtitle}"
 			tasks: [
 				{
 					id: "32B708080CA361A1"
@@ -13721,7 +13721,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests607.title}"
+			title: "{ftbquests.chapter.questing_v10.quests603.title}"
 			x: -6.0d
 			y: -9.0d
 		}
@@ -13736,7 +13736,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests608.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests604.subtitle}"
 			tasks: [
 				{
 					id: "4A36DE6E057E0A01"
@@ -13744,7 +13744,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests608.title}"
+			title: "{ftbquests.chapter.questing_v10.quests604.title}"
 			x: -1.5d
 			y: -13.5d
 		}
@@ -13759,7 +13759,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests609.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests605.subtitle}"
 			tasks: [
 				{
 					id: "1031B6AF82C1193D"
@@ -13767,7 +13767,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests609.title}"
+			title: "{ftbquests.chapter.questing_v10.quests605.title}"
 			x: -6.0d
 			y: -12.0d
 		}
@@ -13788,7 +13788,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests610.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests606.subtitle}"
 			tasks: [
 				{
 					id: "6B1E38FEE75C089E"
@@ -13796,7 +13796,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests610.title}"
+			title: "{ftbquests.chapter.questing_v10.quests606.title}"
 			x: -4.5d
 			y: -13.5d
 		}
@@ -13804,7 +13804,7 @@
 			dependencies: ["4BC6BB7475C11ECF"]
 			icon: "minecraft:terracotta"
 			id: "700C1F69589D9FEC"
-			subtitle: "{ftbquests.chapter.questing_v10.quests611.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests607.subtitle}"
 			tasks: [
 				{
 					biome: "terralith:white_mesa"
@@ -13812,7 +13812,7 @@
 					type: "biome"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests611.title}"
+			title: "{ftbquests.chapter.questing_v10.quests607.title}"
 			x: 21.5d
 			y: -11.0d
 		}
@@ -13827,7 +13827,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests612.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests608.subtitle}"
 			tasks: [
 				{
 					id: "17B7CA58575B7DEE"
@@ -13835,7 +13835,7 @@
 					type: "structure"
 				}
 			]
-			title: "{ftbquests.chapter.questing_v10.quests612.title}"
+			title: "{ftbquests.chapter.questing_v10.quests608.title}"
 			x: -6.0d
 			y: -13.5d
 		}
@@ -13849,7 +13849,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests613.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests609.subtitle}"
 			tasks: [
 				{
 					id: "2C97CE2B15494D2A"
@@ -13870,7 +13870,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests614.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests610.subtitle}"
 			tasks: [
 				{
 					id: "0968C666905F0BDB"
@@ -13891,7 +13891,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "{ftbquests.chapter.questing_v10.quests615.subtitle}"
+			subtitle: "{ftbquests.chapter.questing_v10.quests611.subtitle}"
 			tasks: [
 				{
 					id: "506BC7F4BDE3D805"
@@ -13905,20 +13905,23 @@
 		{
 			dependencies: ["794EA7994A5605F7"]
 			id: "784B98982C5B2FC1"
-			rewards: [{
-				id: "13CF5A15AF6AD200"
-				type: "xp"
-				xp: 100
-			}]
-			tasks: [{
-				id: "766AABCD143861FE"
-				item: "brewinandchewin:egg_grog"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "13CF5A15AF6AD200"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					id: "766AABCD143861FE"
+					item: "brewinandchewin:egg_grog"
+					type: "item"
+				}
+			]
 			x: 30.5d
 			y: 10.5d
 		}
-
 	]
 	title: "{ftbquests.chapter.questing_v10.title}"
 }
