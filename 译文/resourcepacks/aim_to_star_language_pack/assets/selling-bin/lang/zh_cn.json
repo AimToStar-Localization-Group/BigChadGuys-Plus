@@ -1,6 +1,0 @@
-{
-    "block.selling-bin.diamond_bin": "钻石售卖箱",
-    "block.selling-bin.iron_bin": "铁售卖箱",
-    "block.selling-bin.wooden_bin": "木售卖箱",
-    "selling-bin.tooltip.sell": "卖出§f%sx§r会得到§f%sx§r §f§l%s"
-}
