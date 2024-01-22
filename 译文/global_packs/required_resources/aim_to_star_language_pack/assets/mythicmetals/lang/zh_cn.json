@@ -1184,5 +1184,7 @@
     "tag.item.mythicmetals.unobtainium_blocks": "叵得块",
     "tag.item.mythicmetals.unobtainium_ores": "叵得矿",
     "tag.item.mythicmetals.armor": "神话金属盔甲",
-    "tag.item.mythicmetals.tools": "神话金属工具"
+    "tag.item.mythicmetals.tools": "神话金属工具",
+    "tooltip.tidesinger.coral.brain": "脑珊瑚变种",
+    "tooltip.tidesinger.coral.bubble": "气泡珊瑚变种"
 }
