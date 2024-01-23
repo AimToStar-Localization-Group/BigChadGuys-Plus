@@ -1,0 +1,107 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_429
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=658154%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505154%
+  orientation = element
+  orientation_element = vanillabtn:635154
+  x = -130
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=505154%
+  width = 126
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=345154%
+  orientation = element
+  orientation_element = vanillabtn:345208
+  x = 0
+  action = movebutton
+  y = -24
+}
+
+customization {
+  identifier = %id=635154%
+  orientation = element
+  orientation_element = vanillabtn:505208
+  x = 130
+  action = movebutton
+  y = -24
+}
+
+customization {
+  identifier = %id=345304%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345280%
+  action = setbuttonlabel
+  value = 资源包
+}
+
+customization {
+  identifier = %id=505280%
+  action = setbuttonlabel
+  value = 无障碍
+}
+
+customization {
+  identifier = %id=345256%
+  action = setbuttonlabel
+  value = 语言
+}
+
+customization {
+  identifier = %id=505256%
+  action = setbuttonlabel
+  value = 聊天
+}
+
+customization {
+  identifier = %id=345232%
+  action = setbuttonlabel
+  value = 视频
+}
+
+customization {
+  identifier = %id=505232%
+  action = setbuttonlabel
+  value = 控制
+}
+
+customization {
+  identifier = %id=345208%
+  action = setbuttonlabel
+  value = 自定义皮肤
+}
+
+customization {
+  identifier = %id=505208%
+  action = setbuttonlabel
+  value = 音频
+}
+

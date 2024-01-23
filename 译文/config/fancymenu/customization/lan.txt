@@ -1,0 +1,48 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_436
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=425160%
+  orientation = element
+  orientation_element = vanillabtn:505100
+  x = -80
+  action = movebutton
+  y = 54
+}
+
+customization {
+  identifier = %id=345972%
+  orientation = element
+  orientation_element = vanillabtn:505972
+  x = -160
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=345972%
+  action = setbuttonlabel
+  value = 确认
+}
+
+customization {
+  identifier = %id=505972%
+  orientation = element
+  orientation_element = vanillabtn:425160
+  x = 80
+  action = movebutton
+  y = 54
+}
+
