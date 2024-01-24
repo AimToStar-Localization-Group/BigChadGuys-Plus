@@ -1,0 +1,17 @@
+{
+  "name": "风暴使者",
+  "icon": "simplyswords:stormbringer",
+  "advancement": "simplyswords:stormbringer",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:stormbringer",
+      "text": "这把剑的刀锋蕴含着强大的电能，每次攻击时都会发出啪啪作响的电弧。据说在暴风雨期间使用这把剑特别有效，使用者可以充分利用闪电的力量。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "据说这把剑极为强大，但也非常难以预测，因为它的电能有时候会伤害使用者，使用时要格外小心。"
+    }
+  ]
+}

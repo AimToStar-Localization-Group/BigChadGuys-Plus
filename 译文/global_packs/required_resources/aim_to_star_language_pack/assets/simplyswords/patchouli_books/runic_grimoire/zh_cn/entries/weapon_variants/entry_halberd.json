@@ -1,0 +1,26 @@
+{
+  "name": "戟",
+  "icon": "simplyswords:iron_halberd",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_halberd",
+      "text": "戟是一种长柄武器，一端有一个锋利的钩状刀片，另一端有一个斧头。凭借其多功能性和攻击距离，戟在熟练战士手中是一种可怕的武器。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_halberd",
+      "recipe2": "simplyswords:gold_halberd"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_halberd"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_halberd",
+      "recipe2": "simplyswords:runic_halberd"
+    }
+  ]
+}

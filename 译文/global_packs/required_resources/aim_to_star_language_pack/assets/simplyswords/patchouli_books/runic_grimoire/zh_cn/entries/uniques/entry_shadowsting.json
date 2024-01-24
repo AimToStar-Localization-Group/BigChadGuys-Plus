@@ -1,0 +1,17 @@
+{
+  "name": "暗影之刺",
+  "icon": "simplyswords:shadowsting",
+  "advancement": "simplyswords:shadowsting",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:shadowsting",
+      "text": "暗影之刺是一把细长的剑，蕴含着阴影的力量。其攻击时有概率对敌人造成与护甲值相关的魔法伤害，使其能够穿透最坚硬的护甲。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "这把剑还具有创造阴影雾气的能力，它会模糊敌人的视线，这个能力被称为“影雾”。使用者可以利用这股雾气在敌人中间制造混乱，在战斗中获得优势。"
+    }
+  ]
+}

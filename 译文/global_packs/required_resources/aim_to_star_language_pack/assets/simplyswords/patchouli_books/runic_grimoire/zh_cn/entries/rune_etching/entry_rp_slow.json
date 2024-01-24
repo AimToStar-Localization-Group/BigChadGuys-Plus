@@ -1,0 +1,17 @@
+{
+  "name": "缓速",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "缓速",
+      "text": "缓速是一种符文之力，将使用者的武器注入了 $(#87185d)$(l)迟钝之力$()。$(br2)使用者每次攻击时有一定几率减缓目标的移动速度。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "缓速是一种强大的符文之力，可以扰乱战斗的节奏并为使用者带来优势。"
+    }
+  ]
+}

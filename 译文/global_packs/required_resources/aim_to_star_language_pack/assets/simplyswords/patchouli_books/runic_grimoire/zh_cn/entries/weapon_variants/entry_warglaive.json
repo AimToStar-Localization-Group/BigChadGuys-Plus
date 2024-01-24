@@ -1,0 +1,26 @@
+{
+  "name": "战刃",
+  "icon": "simplyswords:iron_warglaive",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_warglaive",
+      "text": "战刃以其速度和敏捷性而闻名，凭借其锋利的刀锋，它可以快速进行致命打击。它们需要掌握极高水平的技巧才能使用，在正确使用时，它们在战斗中非常有效。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_warglaive",
+      "recipe2": "simplyswords:gold_warglaive"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_warglaive"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_warglaive",
+      "recipe2": "simplyswords:runic_warglaive"
+    }
+  ]
+}

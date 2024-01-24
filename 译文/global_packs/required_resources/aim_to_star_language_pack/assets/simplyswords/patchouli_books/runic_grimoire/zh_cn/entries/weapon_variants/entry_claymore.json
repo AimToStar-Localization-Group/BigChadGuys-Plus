@@ -1,0 +1,26 @@
+{
+  "name": "阔剑",
+  "icon": "simplyswords:iron_claymore",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_claymore",
+      "text": "阔剑是一种既适用于砍击又适用于刺击的武器，曾被苏格兰战士在战斗中使用。其体积和重量使其成为一种强大的武器，能够对敌人造成毁灭性的打击。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_claymore",
+      "recipe2": "simplyswords:gold_claymore"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_claymore"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_claymore",
+      "recipe2": "simplyswords:runic_claymore"
+    }
+  ]
+}

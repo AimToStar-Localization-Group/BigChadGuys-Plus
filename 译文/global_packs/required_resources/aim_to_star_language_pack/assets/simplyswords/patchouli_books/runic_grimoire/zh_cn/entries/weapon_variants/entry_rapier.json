@@ -1,0 +1,26 @@
+{
+  "name": "西洋剑",
+  "icon": "simplyswords:iron_rapier",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_rapier",
+      "text": "在16世纪和17世纪，西洋剑在上层社会中很受欢迎，并被用于决斗和平民自卫。细剑以其在战斗中的速度、精准性和优雅性而闻名。由于其薄而长的刀片，需要高水平的技巧才能有效地使用。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_rapier",
+      "recipe2": "simplyswords:gold_rapier"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_rapier"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_rapier",
+      "recipe2": "simplyswords:runic_rapier"
+    }
+  ]
+}

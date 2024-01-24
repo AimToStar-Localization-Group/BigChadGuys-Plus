@@ -1,0 +1,26 @@
+{
+  "name": "环刃",
+  "icon": "simplyswords:iron_chakram",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_chakram",
+      "text": "环刃是一种通常由金属制成、具有锋利外缘的圆形投掷武器。双持时，环刃能够发动范围攻击，可以同时击中多个敌人。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_chakram",
+      "recipe2": "simplyswords:gold_chakram"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_chakram"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_chakram",
+      "recipe2": "simplyswords:runic_chakram"
+    }
+  ]
+}

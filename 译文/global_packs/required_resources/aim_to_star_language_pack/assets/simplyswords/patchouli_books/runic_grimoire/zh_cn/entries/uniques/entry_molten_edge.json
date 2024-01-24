@@ -1,0 +1,17 @@
+{
+  "name": "熔火",
+  "icon": "simplyswords:molten_edge",
+  "advancement": "simplyswords:molten_edge",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:molten_edge",
+      "text": "熔火是一把强大的斧头，当使用者受伤时，会获得力量和迅捷效果。斧头的效果随着使用者受到伤害增加而增加，在战斗中可以快速行动并造成大量伤害。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "据说这把斧头是由熔岩锻造而成，它散发着炽热的光环。"
+    }
+  ]
+}

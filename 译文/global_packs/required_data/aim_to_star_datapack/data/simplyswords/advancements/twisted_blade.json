@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplyswords:twisted_blade"
+    },
+    "title": "逐渐变得扭曲",
+    "description": "找到独特的武器，扭曲之刃",
+    "hidden": true,
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "simplyswords:runic_weapon",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "simplyswords:twisted_blade"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

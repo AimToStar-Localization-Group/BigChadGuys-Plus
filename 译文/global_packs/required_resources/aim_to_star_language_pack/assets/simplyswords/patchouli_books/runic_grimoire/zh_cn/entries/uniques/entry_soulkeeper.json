@@ -1,0 +1,17 @@
+{
+  "name": "聚魂之锤",
+  "icon": "simplyswords:soulkeeper",
+  "advancement": "simplyswords:soulkeeper",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:soulkeeper",
+      "text": "聚魂之锤是由一种神秘材料锻造而成，能够吸收陨落者的灵魂，使用者可以与这些灵魂之间建立联系。被这把锤子吸收的灵魂为使用者提供了伤害吸收，吸收了部分对使用者造成的伤害。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "这把锤子还有能力释放这些灵魂，削弱和减缓附近的敌人。锤子本身巨大而威赫，带有一个窥视灵魂深渊的巨口。"
+    }
+  ]
+}

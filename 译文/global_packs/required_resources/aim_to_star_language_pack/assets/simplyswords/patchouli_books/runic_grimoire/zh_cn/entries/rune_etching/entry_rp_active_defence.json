@@ -1,0 +1,17 @@
+{
+  "name": "主动防御",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "主动防御",
+      "text": "主动防御是一种符文之力，赋予使用者的武器 $(#389fff)$(l)保护之力$()。 $(br2)只要使用者的物品栏中有箭矢，它会让使用者周期性地向附近的敌人射出箭矢。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "请记住，这个能力需要使用者在物品栏中拥有箭矢，如果使用者用尽了箭矢，这个能力将会停用，使用者必须重新补充箭矢才能再次使用它。"
+    }
+  ]
+}

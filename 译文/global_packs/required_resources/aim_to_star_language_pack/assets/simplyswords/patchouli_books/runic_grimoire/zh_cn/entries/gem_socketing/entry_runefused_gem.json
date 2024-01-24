@@ -1,0 +1,20 @@
+{
+  "name": "符文熔炼宝石",
+  "icon": "simplyswords:runefused_gem",
+  "category": "simplyswords:category_gem_socketing",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runefused_gem",
+      "text": "符文熔炼宝石可以通过在锻造台中将远古之魂与符文石板结合而获得。一旦鉴定，将会显现出宝石的力量。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "符文熔炼宝石可以镶嵌到含有空的【符文插槽】的独特武器上。这些宝石只能容纳被动类别的符文能量。"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:runefused_gem"
+    }
+  ]
+}

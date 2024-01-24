@@ -1,0 +1,17 @@
+{
+  "name": "炉火巨锤",
+  "icon": "simplyswords:hearthflame",
+  "advancement": "simplyswords:hearthflame",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:hearthflame",
+      "text": "炉火巨锤是一把强大的巨锤，其蕴含着引发毁灭性震动的能力。当挥舞时，它会释放出能量波，将敌人拉向自身，然后在火焰爆炸中将其点燃。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "由此产生的爆炸不仅造成巨大的伤害，还会将敌人从使用者身边击飞。据说这把锤子是由地球最炽热的火焰锻造而成,让人望而生畏。"
+    }
+  ]
+}

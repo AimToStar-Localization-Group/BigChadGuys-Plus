@@ -1,0 +1,17 @@
+{
+  "name": "雷神之锤",
+  "icon": "simplyswords:mjolnir",
+  "advancement": "simplyswords:mjolnir",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:mjolnir",
+      "text": "由矮人布洛克和艾特利锻造，并赠送给雷神托尔。雷神之锤是一件拥有上古力量的武器，只有被认可的强者才能驾驭，甚至可以一击摧毁整座山脉。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "在普通人手中，它仍然能够在雨天召唤闪电，并回到它的使用者身边。你最好将其归还给它真正的主人，不是吗？"
+    }
+  ]
+}

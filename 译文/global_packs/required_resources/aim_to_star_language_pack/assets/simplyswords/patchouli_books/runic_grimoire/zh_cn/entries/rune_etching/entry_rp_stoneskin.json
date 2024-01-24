@@ -1,0 +1,17 @@
+{
+  "name": "石肤",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "石肤",
+      "text": "石肤是一种符文之力，将使用者的武器注入了 $(#916f49)$(l)大地之力$()。$(br2)使用者每次攻击时有一定几率在牺牲速度的情况下获得抗性提升。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "石肤是一种强大的符文之力，虽然牺牲了速度,但是获得了抗性提升。"
+    }
+  ]
+}

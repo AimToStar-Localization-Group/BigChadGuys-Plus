@@ -1,0 +1,17 @@
+{
+  "name": "守望战刃",
+  "icon": "simplyswords:watching_warglaive",
+  "advancement": "simplyswords:watching_warglaive",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:watching_warglaive",
+      "text": "守望战刃是一件强大的武器，专为熟练而凶猛的战士设计。中心部位有两只闪烁的眼睛，刀刃由一种黑色的金属制成，似乎能够吸收周围的光线。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "守望战刃会从附近的敌人身上吸取生命力，并将其转移给使用者。守望战刃还有一定几率立即处决对手，造成强大的关键一击，可以立即结束战斗。"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "献祭",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "献祭",
+      "text": "献祭有着一个强大的神圣火焰光环。在激活状态下，这个光环会定期对附近的敌人造成伤害，用正义之焰将它们焚烧殆尽。这个伤害会受使用者当前的生命值影响。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "然而，这种强大的能力是有代价的，使用者也会受到神圣火焰的轻微伤害。"
+    }
+  ]
+}

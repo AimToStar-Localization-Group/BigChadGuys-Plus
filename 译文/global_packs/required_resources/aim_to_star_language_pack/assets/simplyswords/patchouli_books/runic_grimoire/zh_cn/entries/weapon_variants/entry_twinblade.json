@@ -1,0 +1,26 @@
+{
+  "name": "双刃剑",
+  "icon": "simplyswords:iron_twinblade",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_twinblade",
+      "text": "双刃剑需要掌握极高水平的技巧才能使用。其双刀片设计，让它在战斗中以速度和精准性而闻名，在合适的人手中是一种可怕的武器。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_twinblade",
+      "recipe2": "simplyswords:gold_twinblade"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_twinblade"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_twinblade",
+      "recipe2": "simplyswords:runic_twinblade"
+    }
+  ]
+}

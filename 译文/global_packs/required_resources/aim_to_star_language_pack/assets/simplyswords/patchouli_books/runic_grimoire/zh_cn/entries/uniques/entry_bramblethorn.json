@@ -1,0 +1,17 @@
+{
+  "name": "木棘之杖",
+  "icon": "simplyswords:bramblethorn",
+  "advancement": "simplyswords:bramblethorn",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:bramblethorn",
+      "text": "木棘之杖是一把独特的剑，表面看起来不过是一根简单的树枝，但内含强大的能量。它由一种带有稀有附魔的轻便耐用木材制成，能够迅速发动致命的攻击。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "这把剑能够释放出一团有毒的孢子云雾，可以毒害并使任何敢于进入其范围的敌人失去行动能力。除了使用者本人外，这些孢子并不区别对待，因此在队友附近使用时请小心"
+    }
+  ]
+}

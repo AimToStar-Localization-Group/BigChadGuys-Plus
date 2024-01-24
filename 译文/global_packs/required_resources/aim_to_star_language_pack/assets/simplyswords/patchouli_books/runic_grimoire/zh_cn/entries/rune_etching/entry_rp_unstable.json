@@ -1,0 +1,17 @@
+{
+  "name": "不稳定",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "不稳定",
+      "text": "不稳定是一种符文之力，将使用者的武器注入了 $(#9243a3)$(l)混乱之力$()。$(br2)使用者定期为自己施加随机效果。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "这种能力极其不可预测，它也可能产生负面效果。"
+    }
+  ]
+}

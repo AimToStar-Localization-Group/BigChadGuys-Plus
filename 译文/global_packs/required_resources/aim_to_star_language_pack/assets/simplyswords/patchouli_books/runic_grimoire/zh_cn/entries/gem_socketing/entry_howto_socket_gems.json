@@ -1,0 +1,16 @@
+{
+  "name": "宝石插槽",
+  "icon": "simplyswords:netherfused_gem",
+  "category": "simplyswords:category_gem_socketing",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:netherfused_gem",
+      "text": "要插入宝石，你必须同时拥有宝石和带有空插槽的武器（符文熔炼宝石/下界熔炼宝石）。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "打开你的背包，用鼠标左键点击宝石，使其锚定在光标上。然后，只需再次用左键点击你想要插入的武器。宝石将从光标上消失，你的武器完成了插入宝石。"
+    }
+  ]
+}

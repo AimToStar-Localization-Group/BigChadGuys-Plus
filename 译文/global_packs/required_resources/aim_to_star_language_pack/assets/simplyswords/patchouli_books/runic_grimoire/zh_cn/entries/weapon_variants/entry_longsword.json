@@ -1,0 +1,26 @@
+{
+  "name": "长剑",
+  "icon": "simplyswords:iron_longsword",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_longsword",
+      "text": "长剑是一种多功能的武器，可用于砍击、刺击和切割。在中世纪时期，它被广泛用于骑士和其他士兵中。长剑被视为骑士的典型武器，以其精准性、砍击力和多功能性而闻名。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_longsword",
+      "recipe2": "simplyswords:gold_longsword"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_longsword"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_longsword",
+      "recipe2": "simplyswords:runic_longsword"
+    }
+  ]
+}

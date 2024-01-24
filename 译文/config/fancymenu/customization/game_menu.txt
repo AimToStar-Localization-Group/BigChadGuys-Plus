@@ -124,8 +124,8 @@ customization {
   orientation = element
   restartbackgroundanimations = true
   buttonaction = mimicbutton;net.minecraft.class_433:button_compatibility_id:mc_pausescreen_lan_button%btnaction_splitter_fm%
-  description = If this doesn't work, rejoin your world.
-  label = Start Co-op
+  description = 如果没有生效，请尝试重新加入你的世界。
+  label = 开始多人
   loopbackgroundanimations = true
   orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_stats_button
   x = 0

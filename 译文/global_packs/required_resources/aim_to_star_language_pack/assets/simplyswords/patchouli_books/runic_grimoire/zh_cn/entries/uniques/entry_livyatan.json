@@ -1,0 +1,17 @@
+{
+  "name": "海兽利维坦",
+  "icon": "simplyswords:livyatan",
+  "advancement": "simplyswords:livyatan",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:livyatan",
+      "text": "海兽利维坦是一把可怕的斧头，能够冻结敌人并将它们击碎，造成巨额的伤害。这把斧头每次攻击概率释放出一股冰冻能量的冲击波，笼罩附近目标，完全阻止它们的移动。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "这把斧头会将敌人击碎成碎片，造成毁灭性的伤害。据说这把斧头是由一只传奇生物的心脏锻造而成，散发着冰冷的蓝光。"
+    }
+  ]
+}

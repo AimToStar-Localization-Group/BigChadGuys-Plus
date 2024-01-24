@@ -1,0 +1,17 @@
+{
+  "name": "动能",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "动能",
+      "text": "动能是一种符文之力，将使用者的武器注入了 $(#389fff)$(l)质量和速度之力$()。$(br2)它产生向前的动量，迅速推动使用者向前移动。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "动能产生的能量可以在战斗中发挥极大的效果，使用者能够迅速移动并进行攻击。"
+    }
+  ]
+}

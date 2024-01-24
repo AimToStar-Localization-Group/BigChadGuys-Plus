@@ -1,0 +1,17 @@
+{
+  "name": "弱化",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "弱化",
+      "text": "弱化是一种符文之力，将使用者的武器注入了 $(#87185d)$(l)腐朽之力$()。$(br2)使用者每次攻击时有一定几率减缓并削弱目标。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "弱化是一种强大的符文之力，可以通过减缓和削弱目标，为使用者在战斗中带来优势。"
+    }
+  ]
+}

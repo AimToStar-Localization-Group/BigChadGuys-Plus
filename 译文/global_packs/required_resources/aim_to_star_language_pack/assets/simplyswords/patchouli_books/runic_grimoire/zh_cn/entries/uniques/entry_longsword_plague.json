@@ -1,0 +1,17 @@
+{
+  "name": "瘟疫长剑",
+  "icon": "simplyswords:toxic_longsword",
+  "advancement": "simplyswords:longsword_plague",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:toxic_longsword",
+      "text": "瘟疫长剑是一把诅咒武器，能够削弱敌人身上的增益如再生或抗性提升等。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "据说这把剑是由一场大瘟疫的受害者的遗骸所锻造，融入了黑暗魔法，散发着一股充满朽败的不祥气息。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "沉睡圣器",
+  "icon": "simplyswords:dormant_relic",
+  "advancement": "simplyswords:dormant_relic",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:dormant_relic",
+      "text": "沉睡圣器是一把神密的剑，其刀锋内蕴藏着一股等待觉醒的能量。乍一看，它看起来是一把普通而平凡的剑，但它可以通过锻造来唤醒其潜在的能量。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:righteous_relic",
+      "recipe2": "simplyswords:tainted_relic"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:sunfire",
+      "recipe2": "simplyswords:harbinger"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "长柄镰",
+  "icon": "simplyswords:iron_scythe",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_scythe",
+      "text": "长柄镰以其每次打击都能造成毁灭性伤害的能力而闻名，这归因于其厚重锋利的刀片。长柄镰可以在大范围内进行切割攻击，这要归功于其特别大的弯曲刀片和长柄。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_scythe",
+      "recipe2": "simplyswords:gold_scythe"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_scythe"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_scythe",
+      "recipe2": "simplyswords:runic_scythe"
+    }
+  ]
+}

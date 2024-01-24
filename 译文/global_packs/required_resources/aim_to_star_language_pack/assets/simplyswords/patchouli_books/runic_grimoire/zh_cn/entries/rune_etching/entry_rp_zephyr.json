@@ -1,0 +1,17 @@
+{
+  "name": "微风",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "微风",
+      "text": "微风是一种符文之力，将使用者的武器注入了 $(#85a0ab)$(l)风之力$()。$(br2)使用者每次攻击时有一定几率增加攻击速度和移动速度。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "你可以利用增加的攻击速度和移动速度来迅速攻击并躲避敌人的进攻。"
+    }
+  ]
+}

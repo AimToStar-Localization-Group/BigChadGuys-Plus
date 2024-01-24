@@ -1,0 +1,17 @@
+{
+  "name": "野火",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "野火",
+      "text": "野火是一种符文之力，将使用者的武器注入了 $(#d1422c)$(l)火焰和燃烧之力$()。$(br2)使用者每次攻击时有一定几率将所有附近的相同类型敌人引燃。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "野火是一种强大的符文之力，可以对相同的群体敌人造成大量伤害。"
+    }
+  ]
+}

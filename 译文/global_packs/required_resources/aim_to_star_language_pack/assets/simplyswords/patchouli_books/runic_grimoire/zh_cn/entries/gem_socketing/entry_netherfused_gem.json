@@ -1,0 +1,20 @@
+{
+  "name": "下界熔炼宝石",
+  "icon": "simplyswords:netherfused_gem",
+  "category": "simplyswords:category_gem_socketing",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:netherfused_gem",
+      "text": "下界熔炼宝石可通过在锻造台中将远古之魂与下界合金锭结合而获得。一旦鉴定，将会显现出宝石的力量。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "下界熔炼宝石可以镶嵌到含有空的【下界插槽】的武器上。"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherfused_gem"
+    }
+  ]
+}

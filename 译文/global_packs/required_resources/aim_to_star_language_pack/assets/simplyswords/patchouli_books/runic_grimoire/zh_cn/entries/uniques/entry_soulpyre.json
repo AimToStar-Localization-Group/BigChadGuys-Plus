@@ -1,0 +1,18 @@
+{
+  "name": "葬魂",
+  "icon": "simplyswords:soulpyre",
+  "advancement": "simplyswords:soulpyre",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:soulpyre",
+      "text": "葬魂是一把强大而古老的斧头，据说蕴含着灵魂、转移和火焰的力量。据说这把斧头是由一种稀有而神秘的金属锻造而成，融合了无数灵魂的能量。"
+
+    },
+    {
+      "type": "patchouli:text",
+      "text": "使用者可以将自己的位置与敌人的位置互换，释放出毁灭性的火焰能量波，能够焚烧整个战场，一段时间后敌我位置将会复位。"
+    }
+  ]
+}

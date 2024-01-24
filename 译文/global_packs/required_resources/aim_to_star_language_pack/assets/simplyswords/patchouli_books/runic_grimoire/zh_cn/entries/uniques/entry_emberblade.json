@@ -1,0 +1,17 @@
+{
+  "name": "余烬之刃",
+  "icon": "simplyswords:emberblade",
+  "advancement": "simplyswords:emberblade",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:emberblade",
+      "text": "余烬之刃是一柄威力强大的长剑，蕴含着火焰之力。这把刀锋由一种罕见的金属锻造而成，能够承受周围火焰的炽热。其让使用者笼罩在火焰中，来增强力量和速度。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "据说这把剑会选择它的主人，只有那些强者才能驾驭它。然而，有人说这把剑的能力会导致使用者失去控制，被火焰所吞没，等待着的只有毁灭。"
+    }
+  ]
+}

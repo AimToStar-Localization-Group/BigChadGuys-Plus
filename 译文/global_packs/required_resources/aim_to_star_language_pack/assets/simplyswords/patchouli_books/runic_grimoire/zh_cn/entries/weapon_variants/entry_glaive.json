@@ -1,0 +1,26 @@
+{
+  "name": "长柄刀",
+  "icon": "simplyswords:iron_glaive",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_glaive",
+      "text": "长柄刀是一种长手武器，由单刃刀片安装在长杆或轴的一端组成，非常适合切割或砍击。在战斗中可以实现较远的攻击距离，在进攻和防御方面都非常有用。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_glaive",
+      "recipe2": "simplyswords:gold_glaive"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_glaive"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_glaive",
+      "recipe2": "simplyswords:runic_glaive"
+    }
+  ]
+}

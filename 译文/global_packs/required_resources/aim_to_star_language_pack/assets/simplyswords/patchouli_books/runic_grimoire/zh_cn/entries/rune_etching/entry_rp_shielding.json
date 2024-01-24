@@ -1,0 +1,17 @@
+{
+  "name": "庇佑",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "庇佑",
+      "text": "庇佑是一种符文之力，将使用者的武器注入了 $(#389fff)$(l)庇护之力$()。$(br2)它使用者每次攻击时有一定几率获得伤害吸收。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "庇佑是一种强大的符文之力，可以在战斗中为使用者提供保护，从而使他们在战场上占据优势。"
+    }
+  ]
+}

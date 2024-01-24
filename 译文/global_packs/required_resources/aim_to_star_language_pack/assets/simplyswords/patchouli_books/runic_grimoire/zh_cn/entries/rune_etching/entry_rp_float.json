@@ -1,0 +1,17 @@
+{
+  "name": "漂浮",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "漂浮",
+      "text": "漂浮是一种符文之力，利用了大地的力量，使用者能够操控重力并逆转。$(br2)使用者攻击时有一定的几率让敌人浮空，使其在短时间内无法移动。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "漂浮是一种强大的符文之力，可以扰乱战斗节奏并为使用者带来优势。"
+    }
+  ]
+}

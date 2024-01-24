@@ -1,0 +1,17 @@
+ {
+  "name": "裂魂之镰",
+  "icon": "simplyswords:soulrender",
+  "advancement": "simplyswords:soulrender",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:soulrender",
+      "text": "裂魂之镰据说是由一种神秘的黑色金属锻造而成，闪烁一股邪恶的光芒。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "一旦灵魂被撕裂，受害者会在身体和精神上都变得虚弱。据说这把镰刀由强大的死灵法师掌控，他们用它收割敌人的灵魂并为其所用。"
+    }
+  ]
+}

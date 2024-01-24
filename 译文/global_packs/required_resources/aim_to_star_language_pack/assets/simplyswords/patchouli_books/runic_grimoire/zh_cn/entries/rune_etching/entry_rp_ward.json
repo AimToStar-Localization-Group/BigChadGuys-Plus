@@ -1,0 +1,17 @@
+{
+  "name": "护卫",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "护卫",
+      "text": "护卫是一种强大但具有风险的能力，它为使用者提供了一个临时护盾，用于抵消攻击。当激活时，使用者会减少当前一半的生命值，创造能量屏障，吸收即将来临的伤害。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "护盾持续六秒，护盾的强度会随着剩余生命值的多少而变化，使其成为那些愿意承担风险的人的强大防御选择。"
+    }
+  ]
+}

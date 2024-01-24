@@ -1,0 +1,17 @@
+{
+  "name": "淬魔",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "淬魔",
+      "text": "淬魔是一种符文能量，将使用者的武器注入了 $(#389fff)$(l)魔法之力$()。$(br2)它使武器在打击敌人时释放强大的魔法能量。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "由淬魔造成的魔法伤害通常难以预测，并且随着武器的耐久度降低而逐渐减弱。"
+    }
+  ]
+}

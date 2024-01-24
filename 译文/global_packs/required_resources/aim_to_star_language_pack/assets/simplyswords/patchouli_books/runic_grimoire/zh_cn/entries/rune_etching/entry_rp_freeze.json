@@ -1,0 +1,17 @@
+{
+  "name": "冰冻",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "冰冻",
+      "text": "冰冻是一种符文之力，将使用者的武器注入 $(#38caff)$(l)寒冷和冰霜之力$()。 $(br2)使用者一定的几率在每次成功命中时使目标受到寒冷或冰冻。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "冰冻是一种强大的符文之力，可以极大地扰乱战斗的节奏并为使用者带来优势。"
+    }
+  ]
+}

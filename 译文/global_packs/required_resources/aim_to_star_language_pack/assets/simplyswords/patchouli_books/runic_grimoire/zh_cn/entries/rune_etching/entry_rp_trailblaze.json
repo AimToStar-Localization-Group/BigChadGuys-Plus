@@ -1,0 +1,17 @@
+{
+  "name": "焰痕",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "焰痕",
+      "text": "焰痕是一种符文之力，将使用者的武器注入了 $(#bf4117)$(l)火焰之力$()。$(br2)使用者每次攻击时有一定几率点燃自身，同时增加移动速度。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "焰痕在与依赖速度和机动性的敌人战斗中非常有用,但你也会被火焰所侵蚀。"
+    }
+  ]
+}

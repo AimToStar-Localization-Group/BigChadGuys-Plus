@@ -1,0 +1,17 @@
+{
+  "name": "霜卫",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "霜卫",
+      "text": "霜卫是一种符文之力，将使用者的武器注入了 $(#38caff)$(l)寒冷和冰霜之力$()。$(br2)它会创建一个守卫，定期向附近的敌人发射会影响其移动的雪球。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "霜卫是防御性玩法的理想选择，因为它可以轻松地控制战场。"
+    }
+  ]
+}

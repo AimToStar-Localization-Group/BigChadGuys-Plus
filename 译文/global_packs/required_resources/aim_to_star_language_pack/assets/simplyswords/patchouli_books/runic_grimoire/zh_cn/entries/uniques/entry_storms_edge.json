@@ -1,0 +1,17 @@
+{
+  "name": "风暴之刃",
+  "icon": "simplyswords:storms_edge",
+  "advancement": "simplyswords:storms_edge",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:storms_edge",
+      "text": "风暴之刃据说是由一种能够引导和利用电力的稀有金属锻造而成。握把由一种深色的木材制成，并用具有保护性的皮革包裹。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "风暴之刃有能力储存电力，使用者可以释放电力来推动自己前进，迅速缩短与敌人的距离，并在一段时间内对所有攻击免疫。"
+    }
+  ]
+}

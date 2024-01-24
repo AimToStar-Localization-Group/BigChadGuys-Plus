@@ -1,0 +1,17 @@
+{
+  "name": "奥术斧钺",
+  "icon": "simplyswords:arcanethyst",
+  "advancement": "simplyswords:arcanethyst",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:arcanethyst",
+      "text": "奥术斧钺是一把强大的戟，利用奥术魔法的力量来操纵敌人，类似于念力。这把戟是由附魔的紫水晶制成的，紫水晶是一种稀有并且有价值的宝石，以其能够引导魔法能量的能力而闻名。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "这把戟独特的能力是可以借助奥术能量的波动将敌人抬离地面，使其容易受到后续攻击。这把戟被认为是一个强大的毁灭工具，但它需要从敌人的肉体中吸收能量，才能达到最大的潜力。"
+    }
+  ]
+}

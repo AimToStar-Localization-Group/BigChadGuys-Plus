@@ -1,0 +1,17 @@
+{
+  "name": "扭曲之刃",
+  "icon": "simplyswords:twisted_blade",
+  "advancement": "simplyswords:twisted_blade",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:twisted_blade",
+      "text": "扭曲之刃是一把强大的巨剑，以其独特的设计而闻名。这把剑的刀锋由一种特殊的钢材制成，其在每次打击时都能扭曲和变形。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "这种扭曲和变形的运动赋予了剑前所未有的速度和力量，使其成为战场上最致命的武器之一。此外，剑的独特设计也使其极难被格挡或招架。"
+    }
+  ]
+}

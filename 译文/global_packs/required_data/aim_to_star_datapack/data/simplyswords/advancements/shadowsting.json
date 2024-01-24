@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplyswords:shadowsting"
+    },
+    "title": "从暗影中袭来",
+    "description": "找到独特的武器，暗影之刺",
+    "hidden": true,
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "simplyswords:runic_weapon",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "simplyswords:shadowsting"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

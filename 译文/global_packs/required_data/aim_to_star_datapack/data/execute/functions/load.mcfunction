@@ -1,0 +1,1 @@
+scoreboard objectives add aimstarload minecraft.custom:minecraft.play_time
