@@ -1,0 +1,8 @@
+{
+    "text.luna.closeServer": "世界共享已停止！",
+    "text.luna.serverAlreadyClosed": "未公开托管的世界",
+    "text.luna.domainAssigned": "世界将在此处被共享：[%s]",
+    "text.luna.clickToStop.hover": "这只会使世界不会被公开访问，局域网（LAN）内仍然生效。",
+    "text.luna.clickToStop": "点击此处停止世界共享",
+    "text.luna.error": "Luna发送错误"
+}

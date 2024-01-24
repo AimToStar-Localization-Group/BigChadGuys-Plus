@@ -1,0 +1,15 @@
+{
+    "customcursor.edit.cancel": "取消",
+    "customcursor.folder.cancel": "取消",
+    "customcursor.edit.confirm": "确认",
+    "customcursor.folder.accept": "确认",
+    "customcursor.edit.enabled.false": "指针：已禁用",
+    "customcursor.edit.enabled.true": "指针：已启用",
+    "customcursor.openbutton": "编辑指针",
+    "customcursor.edit.folder": "从文件夹中选择指针",
+    "customcursor.folder.selected": "已选的指针纹理",
+    "customcursor.edit.size": "大小",
+    "customcursor.edit.x": "X轴偏移值",
+    "customcursor.edit.y": "Y轴偏移值",
+    "customcursor.folder.openfolder": "指针文件夹"
+}
