@@ -147,7 +147,7 @@
     "title.wands.config": "建筑之杖配置",
     "screen.wands.diagonal_spread": "对角选取",
     "option.wands.render_last_tt": "最后渲染预览方框，开启光影后试试这个",
-    "option.wands.wand_tools_display_x_pos": "建筑之杖工具栏x轴位置%",
+    "option.wands.wand_tools_display_x_pos": "建筑之杖x轴位置%",
     "screen.wands.pick_tools": "拿起工具",
     "screen.wands.plane": "平面",
     "screen.wands.drop_pos.block": "方块掉落",
