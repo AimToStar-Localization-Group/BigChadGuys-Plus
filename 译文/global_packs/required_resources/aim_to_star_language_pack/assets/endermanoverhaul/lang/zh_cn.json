@@ -118,5 +118,6 @@
     "tooltip.endermanoverhaul.hood": "使你能够直视末影人而不激怒之",
     "tooltip.endermanoverhaul.icy_pearl": "击中冻结周围目标",
     "tooltip.endermanoverhaul.not_bound": "未绑定",
-    "tooltip.endermanoverhaul.warped_pearl": "传送时获得抗性提升Ⅱ效果"
+    "tooltip.endermanoverhaul.warped_pearl": "传送时获得抗性提升Ⅱ效果",
+    "subtitles.endermanoverhaul.entity.icy_pearl.hit": "寒冰珍珠击中"
 }
