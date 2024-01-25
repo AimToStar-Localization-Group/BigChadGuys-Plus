@@ -9,7 +9,7 @@
     "item.wands.magic_bag_3": "3级魔法袋",
     "item.wands.random": "随机",
     "key.wands.wand_mode": "模式",
-    "item.wands.round_robin": "连续的",
+    "item.wands.round_robin": "连续",
     "key.wands.wand_orientation": "方向",
     "key.wands.wand_invert": "反转",
     "key.wands.wand_rotate": "旋转",
@@ -147,5 +147,9 @@
     "title.wands.config": "建筑之杖配置",
     "screen.wands.diagonal_spread": "对角选取",
     "option.wands.render_last_tt": "最后渲染预览方框，开启光影后试试这个",
-    "option.wands.wand_tools_display_x_pos": "建筑之杖工具栏x轴位置%"
+    "option.wands.wand_tools_display_x_pos": "建筑之杖工具栏x轴位置%",
+    "screen.wands.pick_tools": "拿起工具",
+    "screen.wands.plane": "平面",
+    "screen.wands.drop_pos.block": "方块掉落",
+    "screen.wands.drop_pos.player": "玩家掉落"
 }

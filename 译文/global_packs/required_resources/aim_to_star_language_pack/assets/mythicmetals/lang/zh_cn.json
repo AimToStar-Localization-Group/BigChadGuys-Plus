@@ -1185,6 +1185,14 @@
     "tag.item.mythicmetals.unobtainium_ores": "叵得矿",
     "tag.item.mythicmetals.armor": "神话金属盔甲",
     "tag.item.mythicmetals.tools": "神话金属工具",
-    "tooltip.tidesinger.coral.brain": "脑珊瑚变种",
-    "tooltip.tidesinger.coral.bubble": "气泡珊瑚变种"
+    "tooltip.tidesinger.coral.brain": "脑纹珊瑚变种",
+    "tooltip.tidesinger.coral.bubble": "气泡珊瑚变种",
+    "block.mythicmetals.sponge_nuke_core": "海绵反应堆",
+    "advancement.mythicmetals.prometheum_bouquet.description": "通过一个钷锭，四朵花和四个粗钷来制造钷花束",
+    "advancement.mythicmetals.prometheum_bouquet.title": "真菌地下兰",
+    "abilities.mythicmetals.riptide": "激流",
+    "tooltip.tidesinger.coral.fire": "火珊瑚变种",
+    "tooltip.tidesinger.coral.horn": "鹿角珊瑚变种",
+    "tooltip.tidesinger.coral.tube": "管珊瑚变种",
+    "tooltip.carmot_staff.enchanted_midas_gold": "特有能力 - 大范围幸运5"
 }

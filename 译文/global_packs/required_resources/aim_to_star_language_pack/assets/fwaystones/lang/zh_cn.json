@@ -151,5 +151,15 @@
     "text.config.fwaystones/config.option.global_mode_toggle_permission_levels.value.op": "OP",
     "text.config.fwaystones/config.option.global_mode_toggle_permission_levels.value.none": "没有人",
     "text.config.fwaystones/config.option.teleportation_cost.cost_type.value.health": "生命值",
-    "text.config.fwaystones/config.option.teleportation_cost.cost_type.value.hunger": "饱食度"
+    "text.config.fwaystones/config.option.teleportation_cost.cost_type.value.hunger": "饱食度",
+    "fwaystones.waystone_tooltip.name.arg_color": "#00AAAA",
+    "fwaystones.scroll.tooltip.arg_color": "#FFFF55",
+    "fwaystones.scroll.infinite_tooltip.arg_color": "#FFFF55",
+    "fwaystones.local_void.tooltip.arg_color": "#FFFF55",
+    "fwaystones.void_totem.tooltip.arg_color": "#FFFF55",
+    "fwaystones.learned.multiple.arg_color": "#55FFFF",
+    "fwaystones.learned.infinite.multiple.arg_color": "#55FFFF",
+    "fwaystones.discover_waystone.arg_color": "#55FFFF",
+    "fwaystones.missing_discover_item.arg_color": "#AA0000",
+    "fwaystones.discover_item_paid.arg_color": "#FFFF55"
 }
