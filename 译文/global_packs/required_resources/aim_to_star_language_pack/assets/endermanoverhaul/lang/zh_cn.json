@@ -119,5 +119,9 @@
     "tooltip.endermanoverhaul.icy_pearl": "击中冻结周围目标",
     "tooltip.endermanoverhaul.not_bound": "未绑定",
     "tooltip.endermanoverhaul.warped_pearl": "传送时获得抗性提升Ⅱ效果",
-    "subtitles.endermanoverhaul.entity.icy_pearl.hit": "寒冰珍珠击中"
+    "subtitles.endermanoverhaul.entity.icy_pearl.hit": "寒冰珍珠击中",
+    "config.endermanoverhaul.allowPickingUpBlocks": "允许拾取方块",
+    "config.endermanoverhaul.endEndermanTeleportChance": "末地末影人传送几率",
+    "config.endermanoverhaul.friendlyEndermanDespawn": "友善的末影人消失",
+    "config.endermanoverhaul.friendlyEndermanTeleport": "友善的末影人传送"
 }

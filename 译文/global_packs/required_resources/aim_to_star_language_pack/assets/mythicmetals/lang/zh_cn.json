@@ -1194,5 +1194,6 @@
     "tooltip.tidesinger.coral.fire": "火珊瑚变种",
     "tooltip.tidesinger.coral.horn": "鹿角珊瑚变种",
     "tooltip.tidesinger.coral.tube": "管珊瑚变种",
-    "tooltip.carmot_staff.enchanted_midas_gold": "特有能力 - 大范围幸运5"
+    "tooltip.carmot_staff.enchanted_midas_gold": "特有能力 - 大范围幸运5",
+    "text.config.mythicmetals-config.option.disableCommandBlockInStaff": "禁止命令方块在点金石权杖中可用"
 }
