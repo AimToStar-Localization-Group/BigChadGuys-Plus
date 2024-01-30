@@ -485,5 +485,21 @@
     "ftbquests.quest.misc.progression_mode": "进程模式",
     "ftbquests.gui.edit_quest_props": "任务属性",
     "ftbquests.reward.ftbquests.command.silent": "无声",
-    "ftbquests.reward.ftbquests.command.elevate.tooltip": "以玩家2级权限运行命令"
+    "ftbquests.reward.ftbquests.command.elevate.tooltip": "以玩家2级权限运行命令",
+    "ftbquests.quest.visibility.invisible": "完成前不可见",
+    "ftbquests.quest.visibility.invisible_until_tasks": "在X个任务完成之前不可见",
+    "ftbquests.quest.dependencies.min_required_dependencies": "最小所需依赖项",
+    "ftbquests.quest.misc.ignore_reward_blocking.tooltip": "提供任务奖励(s)，即使奖励被'/ftbquests block_rewards'命令阻止",
+    "ftbquests.quest.visibility.invisible.tooltip": "任务在玩家完成之前是不可见的。\n对“复活节彩蛋”可选任务很有用。",
+    "ftbquests.quest.misc.ignore_reward_blocking": "忽略奖励阻碍",
+    "ftbquests.quest.visibility.hide_details_until_startable.tooltip": "如果为true，则任务细节(文本和任务)在任务开始之前无法查看",
+    "ftbquests.quest.visibility.invisible_until_tasks.tooltip": "只适用于Invisible为真。\n如果> 0，则在完成X或更多任务时显示任务。",
+    "ftbquests.gui.preferences": "玩家的偏好",
+    "ftbquests.gui.key_reference.player": "通用控制\n—;缩小\n+;放大\n0;重置放大\nTab,下一章\nShift + Tab;上一章\n1 - 9;进入章节\n空间;重定位视图\nCtrl + F;搜索\n悬停任务时，显示扩展信息\n鼠标左键，查看任务详情\n鼠标滚轮;向上/向下滚动\nShift +鼠标滚轮;左右滚动\nCtrl +鼠标滚轮;放大/缩小",
+    "ftbquests.gui.key_reference": "主要文献",
+    "ftbquests.gui.key_reference.editor": "编辑器模式\nCtrl 键 +左鼠;切换选择鼠标\n中键;移动所选内容寻求（秒）\n右鼠;上下文菜单鼠标\n中键：拖动;选择任务在拖动框\n中 Ctrl + 鼠标中键：拖动;在框\n中切换选择 Ctrl + A;全选\nCtrl + D;选择没有\nCtrl 键 +上/下/左/右;移动选定的任务\nCtrl + R 组合键;切换十字准线\nCtrl + C;复制所选任务\nCtrl + V;粘贴任务\nCtrl 键 +Shift + V;粘贴任务（无依赖项)\nCtrl + Alt + V;粘贴任务链接任务\n\n查看面板\nT;编辑任务标题\nS;编辑任务字幕\nD;编辑任务描述",
+    "ftbquests.reward.ftbquests.command.elevate": "以高权限运行",
+    "commands.ftbquests.change_progress.invalid_type": "无效的进度类型:%s",
+    "ftbquests.ui.old_scroll_wheel": "旧滚轮行为",
+    "ftbquests.ui.old_scroll_wheel.tooltip": "当为false时，滚轮上下滚动;按住Shift平移，按住Ctrl缩放\n当为true时，滚动轮只缩放(1.19和更早的行为)"
 }

@@ -5,14 +5,14 @@
     "item.things.displacement_tome": "位移魔典",
     "item.things.enchanted_wax_gland": "附魔蜡腺",
     "item.things.item_magnet": "物品磁铁",
-    "effect.things.momentum": "动量",
-    "enchantment.things.retribution": "报应",
-    "enchantment.things.retribution.desc": "赐予用此附魔过的盾阻挡攻击的人力量",
+    "effect.things.momentum": "动力",
+    "enchantment.things.retribution": "报偿",
+    "enchantment.things.retribution.desc": "当有此附魔的盾牌格挡一次攻击时，赐予持盾者力量效果",
     "container.enderpouch": "末影袋",
     "itemGroup.things.things": "杂七杂八的东西",
     "trinkets.slot.feet.charm": "护符",
     "key.things.openenderchest": "开启末影袋",
-    "advancement.things.bater_wucket.description": "但这至于吗？",
+    "advancement.things.bater_wucket.description": "但这值得吗？",
     "advancement.things.infernal_scepter.description": "骄傲地驾驭你的烈焰魔杖",
     "advancement.things.placebo.title": "医学奇迹",
     "item.things.things_almanac": "杂七杂八的手册",
@@ -27,7 +27,7 @@
     "item.things.ender_pouch": "末影袋",
     "item.things.displacement_page": "位移魔页",
     "item.things.mining_gloves": "挖矿手套",
-    "item.things.riot_gauntlet": "狂暴臂铠",
+    "item.things.riot_gauntlet": "防爆护手",
     "item.things.infernal_scepter": "烈焰魔杖",
     "item.things.gleaming_powder": "璀璨粉",
     "item.things.gleaming_compound": "璀璨合金",
@@ -39,34 +39,189 @@
     "key.mouse.5": "鼠标5号键",
     "key.mouse.4": "鼠标4号键",
     "advancement.things.root.title": "杂七杂八的东西",
-    "advancement.things.root.description": "可能还是些好东西呢",
-    "advancement.things.gleaming_powder.title": "和钻石差不多，但没那么闪就对了",
+    "advancement.things.root.description": "这里可能是些有用的东西哦",
+    "advancement.things.gleaming_powder.title": "和钻石差不多，但没那么闪就是了",
     "advancement.things.gleaming_powder.description": "获取璀璨粉",
-    "advancement.things.gleaming_compound.title": "混合得正到好处",
+    "advancement.things.gleaming_compound.title": "调配得恰到好处",
     "advancement.things.gleaming_compound.description": "合成一些璀璨合金",
     "advancement.things.bater_wucket.title": "桶装无限水",
     "advancement.things.displacement_tome.title": "量子纠缠",
     "advancement.things.displacement_tome.description": "合成一本位移宝典",
-    "advancement.things.enchanted_wax_gland.title": "似鸭非鸭，疾走娃",
+    "advancement.things.enchanted_wax_gland.title": "冲鸭！",
     "advancement.things.enchanted_wax_gland.description": "合成一个附魔蜡腺",
-    "advancement.things.ender_pouch.title": "便捷的存储升级啦啊啊啊啊～～ ",
+    "advancement.things.ender_pouch.title": "超级口袋存储 ",
     "advancement.things.ender_pouch.description": "合成一个末影袋",
     "advancement.things.hades_crystal.title": "在热浪中一起摇摆",
-    "advancement.things.hades_crystal.description": "炼狱结晶",
-    "advancement.things.infernal_scepter.title": "热、炎、炙",
-    "advancement.things.item_magnet.title": "我是风儿你是沙",
+    "advancement.things.hades_crystal.description": "合成一个炼狱结晶",
+    "advancement.things.infernal_scepter.title": "恶，魂，鬼！",
+    "advancement.things.item_magnet.title": "你是风儿我是沙",
     "advancement.things.item_magnet.description": "合成一块物品磁铁",
     "advancement.things.mining_gloves.title": "So we back in the mine♪",
-    "advancement.things.mining_gloves.description": "Got our pickaxe swinging from side to side♪（合成一副挖矿手套）",
+    "advancement.things.mining_gloves.description": "Got our pickaxe swinging from side to side♪",
     "advancement.things.monocle.title": "眼前duang得一下就亮堂了",
     "advancement.things.monocle.description": "合成一片单片眼镜",
-    "advancement.things.moss_necklace.title": "它会慢～慢～得～爬过你的每一寸肌肤哟～",
-    "advancement.things.moss_necklace.description": "D区",
+    "advancement.things.moss_necklace.title": "它会慢～慢～地～爬过你的每一处伤口哟～",
+    "advancement.things.moss_necklace.description": "就……挺恶心的",
     "advancement.things.placebo.description": "合成一剂安慰剂",
-    "advancement.things.recall_potion.title": "娘～我想家了",
+    "advancement.things.recall_potion.title": "娘，我想家了……",
     "advancement.things.recall_potion.description": "合成一瓶回忆药水",
     "advancement.things.riot_gauntlet.title": "missingno",
     "advancement.things.riot_gauntlet.description": "missingno",
-    "advancement.things.rabbit_foot_charm.title": "B-hop它不香么",
-    "advancement.things.rabbit_foot_charm.description": "合成一个兔脚护符"
+    "advancement.things.rabbit_foot_charm.title": "为什么不喜欢B-Hopping，是没有腿吗？",
+    "advancement.things.rabbit_foot_charm.description": "合成一个兔脚护符",
+    "item.things.hardening_catalyst.tooltip": "在铁砧中与物品合成使其不可被破坏",
+    "category.things.broken_watch": "破损的手表",
+    "block.things.deepslate_gleaming_ore": "深层璀璨矿石",
+    "block.things.deepslate_glowstone_fixture": "深板岩制萤石灯具",
+    "item.things.ender_pouch.tooltip": [
+        {
+            "text": "按 ",
+            "color": "gray"
+        },
+        {
+            "color": "white"
+        },
+        " 来打开末影箱"
+    ],
+    "item.things.container_key.tooltip": "用于给容器上锁，潜行并点击容器为其上锁/解锁。可用于打开已上锁的容器",
+    "item.things.moss_necklace.tooltip": "在光照下给予生命恢复Ⅱ的效果",
+    "item.things.monocle.tooltip": "给予永久的夜视效果",
+    "item.things.displacement_tome.tooltip.charges": [
+        {
+            "text": "可使用次数： ",
+            "color": "gray"
+        },
+        {
+            "color": "#5800FF"
+        }
+    ],
+    "item.things.displacement_tome.tooltip": "一个用来传送的神奇工具。在物品栏中右键末影珍珠以充能",
+    "item.things.placebo.tooltip": "装备后，有25%的几率喝下药水后不消耗药水",
+    "item.things.hades_crystal.tooltip": "给予永久的防火效果。和§f蜡腺§7一起装备有额外惊喜",
+    "item.things.mining_gloves.tooltip": "给予永久的急迫Ⅱ效果",
+    "item.things.riot_gauntlet.tooltip": "给予永久的力量效果",
+    "item.things.infernal_scepter.tooltip": "用火焰弹作为弹药，发射火球",
+    "item.things.item_magnet.tooltip": [
+        {
+            "color": "#8000ff",
+            "text": "⚡ "
+        },
+        {
+            "text": "能量： ",
+            "color": "gray"
+        },
+        {
+            "color": "dark_gray"
+        }
+    ],
+    "item.things.enchanted_wax_gland.tooltip": "使你能够漂浮于水面，并显著加快水上移速",
+    "item.things.consolation_cake": [
+        {},
+        {
+            "color": "#EB1D36",
+            "text": "❤"
+        },
+        {
+            "text": " 安慰蛋糕 "
+        },
+        {
+            "text": "❤",
+            "color": "#EB1D36"
+        }
+    ],
+    "item.things.consolation_cake.hint": "你可以用这个来交换安慰蛋糕",
+    "item.things.socks.tooltip": [
+        "提供更快的行走速度和可选择的跳跃提升以及附带的自动跳跃效果。按 ",
+        {
+            "color": "white"
+        },
+        " 切换跳跃提升"
+    ],
+    "item.things.rabbit_foot_charm.tooltip": "给予永久的跳跃提升Ⅱ效果",
+    "item.things.luck_of_the_irish.tooltip": "有点把毒马铃薯变成金苹果的感觉",
+    "item.things.socks": "袜子",
+    "item.things.arm_extender": "手臂延长器",
+    "item.things.socks.speed_0": "普通",
+    "item.things.broken_watch": "破损的手表",
+    "item.things.agglomeration": "凝聚球",
+    "item.things.empty_agglomeration.tooltip": "将至少共用一个栏位的两件饰品合二为一",
+    "item.things.shock_absorber.tooltip": "减少20%%摔落伤害（最多8颗心）并使动能伤害减少75%%",
+    "item.things.empty_agglomeration": "空的凝聚球",
+    "item.things.arm_extender.tooltip": "触及半径增加2个方块的距离",
+    "item.things.broken_watch.tooltip": "状态效果的持续时间增加50%%",
+    "item.things.socks.jumpy": "弹跳",
+    "item.things.socks.speed_illegal": "灵动",
+    "item.things.shock_absorber": "缓冲器",
+    "item.things.socks.speed_1": "迅捷",
+    "item.things.socks.speed_2": "尤塞恩·博尔特",
+    "gui.things.displacement_tome.charges": [
+        {
+            "text": "可使用次数： ",
+            "color": "gray"
+        },
+        {
+            "color": "white"
+        }
+    ],
+    "gui.things.displacement_tome.create": "创建",
+    "gui.things.displacement_tome.delete": "删除",
+    "gui.things.displacement_tome.rename": "重命名",
+    "gui.things.displacement_tome.no_pages": [
+        {},
+        {
+            "text": "！ ",
+            "bold": true,
+            "color": "yellow"
+        },
+        {
+            "text": "缺少位移魔页",
+            "color": "gray"
+        }
+    ],
+    "gui.things.displacement_tome.edit_hint": "✎",
+    "text.things.tooltip_hint": [
+        {
+            "text": "按住 ",
+            "color": "gray"
+        },
+        {
+            "text": "SHIFT",
+            "color": "gold"
+        },
+        " 获取更多信息"
+    ],
+    "text.things.crafting_component": "合成材料",
+    "key.things.toggle_socks_jump_boost": "切换袜子跳跃提升",
+    "advancement.things.shock_absorber.title": "平替版猫猫反射弧",
+    "advancement.things.shock_absorber.description": "合成一个缓冲器",
+    "advancement.things.agglomerate_apple.description": "奇怪又新颖的想法",
+    "advancement.things.agglomerate.description": "组合两个饰品，有趣又有利",
+    "advancement.things.broken_watch.description": "合成一个破损的手表",
+    "advancement.things.arm_extender.description": "合成一个手臂延长器",
+    "advancement.things.empty_agglomeration.description": "合成一个空的凝聚球",
+    "advancement.things.arm_extender.title": "不再遥不可及",
+    "advancement.things.agglomerate_apple.title": "滋补又营养",
+    "advancement.things.broken_watch.title": "一天能走对两次呢！",
+    "advancement.things.agglomerate.title": "双倍饰品，双倍乐趣",
+    "text.config.things.option.appleTrinket": "启用苹果饰品",
+    "text.config.things.option.displacementTomeFuelConsumption": "位移魔典传送消耗",
+    "text.config.things.option.enableAgglomeration": "启用凝聚球",
+    "text.config.things.option.generateGleamingOre": "璀璨矿石生成",
+    "text.config.things.option.infernalScepterDurability": "烈焰魔杖耐久值",
+    "advancement.things.eat_agglomerated_apple.description": "它曾滋养过你，但现在它坏了",
+    "text.config.things.option.effectLevels.miningGloveMomentum": "挖矿手套动力等级",
+    "text.config.things.option.effectLevels.mossNecklaceRegen": "苔藓项链生命恢复等级",
+    "text.config.things.option.nerfBeaconsWithMomentum": "削弱信标",
+    "advancement.things.eat_agglomerated_apple.title": "一去不回",
+    "text.config.things.option.renderAgglomerationTrinket": "渲染凝聚球所含饰品",
+    "text.config.things.option.renderAppleTrinket": "渲染苹果饰品",
+    "text.config.things.option.renderTrinkets": "渲染饰品",
+    "text.config.things.option.effectLevels.riotGauntletStrength": "防爆护手力量等级",
+    "text.config.things.option.sockPerLevelSpeedAmplifier": "袜子速度放大倍率",
+    "text.config.things.title": "杂七杂八的东西配置文件",
+    "text.config.things.option.enableAgglomerationInvScrollSelection": "切换凝聚球物品栏能否滚动选择",
+    "text.config.things.category.effectLevels": "饰品状态效果",
+    "text.config.things.option.makeLockedContainersUnbreakable": "不可破坏的上锁容器",
+    "text.config.things.option.waxGlandMultiplier": "附魔蜡腺移速倍率",
+    "advancement.things.empty_agglomeration.title": "平衡？谁在乎平衡啊？"
 }
