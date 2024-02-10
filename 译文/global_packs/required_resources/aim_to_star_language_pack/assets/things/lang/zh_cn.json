@@ -74,27 +74,17 @@
     "block.things.deepslate_gleaming_ore": "深层璀璨矿石",
     "block.things.deepslate_glowstone_fixture": "深板岩制萤石灯具",
     "item.things.ender_pouch.tooltip": [
-        {
-            "text": "按 ",
-            "color": "gray"
-        },
-        {
-            "color": "white"
-        },
+        {"text": "按 ", "color": "gray"},
+        {"index": 0, "color": "white"},
         " 来打开末影箱"
-    ],
+      ],
     "item.things.container_key.tooltip": "用于给容器上锁，潜行并点击容器为其上锁/解锁。可用于打开已上锁的容器",
     "item.things.moss_necklace.tooltip": "在光照下给予生命恢复Ⅱ的效果",
     "item.things.monocle.tooltip": "给予永久的夜视效果",
     "item.things.displacement_tome.tooltip.charges": [
-        {
-            "text": "可使用次数： ",
-            "color": "gray"
-        },
-        {
-            "color": "#5800FF"
-        }
-    ],
+        {"text": "可使用次数：", "color": "gray"},
+        {"index": 0, "color": "#5800FF"}
+      ],
     "item.things.displacement_tome.tooltip": "一个用来传送的神奇工具。在物品栏中右键末影珍珠以充能",
     "item.things.placebo.tooltip": "装备后，有25%的几率喝下药水后不消耗药水",
     "item.things.hades_crystal.tooltip": "给予永久的防火效果。和§f蜡腺§7一起装备有额外惊喜",
@@ -102,41 +92,23 @@
     "item.things.riot_gauntlet.tooltip": "给予永久的力量效果",
     "item.things.infernal_scepter.tooltip": "用火焰弹作为弹药，发射火球",
     "item.things.item_magnet.tooltip": [
-        {
-            "color": "#8000ff",
-            "text": "⚡ "
-        },
-        {
-            "text": "能量： ",
-            "color": "gray"
-        },
-        {
-            "color": "dark_gray"
-        }
-    ],
+        {"text": "⚡ ", "color": "#8000ff"},
+        {"text": "能量：", "color": "gray"},
+        {"index": 0, "color": "dark_gray"}
+      ],
     "item.things.enchanted_wax_gland.tooltip": "使你能够漂浮于水面，并显著加快水上移速",
     "item.things.consolation_cake": [
-        {},
-        {
-            "color": "#EB1D36",
-            "text": "❤"
-        },
-        {
-            "text": " 安慰蛋糕 "
-        },
-        {
-            "text": "❤",
-            "color": "#EB1D36"
-        }
-    ],
+        {"italic": false, "text": ""},
+        {"text": "❤", "color": "#EB1D36"},
+        {"text": " 安慰蛋糕 "},
+        {"text": "❤", "color": "#EB1D36"}
+      ],
     "item.things.consolation_cake.hint": "你可以用这个来交换安慰蛋糕",
     "item.things.socks.tooltip": [
         "提供更快的行走速度和可选择的跳跃提升以及附带的自动跳跃效果。按 ",
-        {
-            "color": "white"
-        },
+        {"index": 0, "color": "white"},
         " 切换跳跃提升"
-    ],
+      ],
     "item.things.rabbit_foot_charm.tooltip": "给予永久的跳跃提升Ⅱ效果",
     "item.things.luck_of_the_irish.tooltip": "有点把毒马铃薯变成金苹果的感觉",
     "item.things.socks": "袜子",
@@ -155,41 +127,29 @@
     "item.things.socks.speed_1": "迅捷",
     "item.things.socks.speed_2": "尤塞恩·博尔特",
     "gui.things.displacement_tome.charges": [
-        {
-            "text": "可使用次数： ",
-            "color": "gray"
-        },
-        {
-            "color": "white"
-        }
-    ],
+        {"text": "可使用次数：", "color": "gray"},
+        {"index": 0, "color": "white"}
+      ],
     "gui.things.displacement_tome.create": "创建",
     "gui.things.displacement_tome.delete": "删除",
     "gui.things.displacement_tome.rename": "重命名",
     "gui.things.displacement_tome.no_pages": [
-        {},
-        {
-            "text": "！ ",
-            "bold": true,
-            "color": "yellow"
-        },
-        {
-            "text": "缺少位移魔页",
-            "color": "gray"
-        }
-    ],
+        "",
+        {"text": "！", "color": "yellow", "bold": true},
+        {"text": "缺少位移魔页", "color": "gray"}
+      ],
     "gui.things.displacement_tome.edit_hint": "✎",
     "text.things.tooltip_hint": [
         {
-            "text": "按住 ",
-            "color": "gray"
+          "text": "按住 ",
+          "color": "gray"
         },
         {
-            "text": "SHIFT",
-            "color": "gold"
+          "text": "SHIFT",
+          "color": "gold"
         },
         " 获取更多信息"
-    ],
+      ],
     "text.things.crafting_component": "合成材料",
     "key.things.toggle_socks_jump_boost": "切换袜子跳跃提升",
     "advancement.things.shock_absorber.title": "平替版猫猫反射弧",
