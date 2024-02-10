@@ -46,7 +46,7 @@ renderClouds:"true"
 resourcePacks:["vanilla","file/MysticMons_v1.7.1.zip","file/MoreMons - v0.5.3.zip","fabric","file/simplyswords_join_book.zip","seasons:seasonal_lush_caves","file/Whimscape_1.20_r4.zip","Moonlight Mods Dynamic Assets","file/FreshAnimations_v1.8.1.zip","file/FA+All_Extensions-v1.2.zip","file/Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip","file/Create Simple Storage 2.1.zip","betterbeds:fancyconnectedbeds","file/JourneyMon-NoVanilla.zip","file/BCG++ Texture Pack.zip","file/BCG++ Compat Pack.zip","file/Serified Font v1.0 pf1-22.zip"]
 incompatibleResourcePacks:[]
 lastServer:
-lang:zh_CN
+lang:zh_cn
 soundDevice:""
 chatVisibility:0
 chatOpacity:1.0
